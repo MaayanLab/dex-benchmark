@@ -1,5 +1,7 @@
 # Project Description Draft
 
+Updated description: https://docs.google.com/document/d/1RfJc9uRB-6e4elrOZGDIx7Df0cHVBbBgriJARoOJSkE/edit?usp=sharing
+
 ### Motivation
 Given recent technological advances, there is now a large wealth of biological data, which can be used to answer new biological questions. Many tools and algorithms have been developed to analyze this data, and in order to evaluate these methods, benchmarking aims to objectively quantify and compare the capabilities of different methods to address certain issues.
 
