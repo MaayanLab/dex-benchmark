@@ -5,10 +5,10 @@ Note: I took only the combined gene lists, which appear to have both the up and 
 ##### Study: Dexamethasone effect on glucocorticoid-resistant and -sensitive lymphoblastic leukemia cell lines
 - https://maayanlab.cloud/g2e/gene_list/0/0756ac377a
 - https://maayanlab.cloud/g2e/gene_list/0/e1dff30b91
-##### Study: Dexamethasone effect on fetal chondrocytes in vitro: time course
+##### Study: Dexamethasone effect on fetal chondrocytes in vitro - time course
 - https://maayanlab.cloud/g2e/gene_list/0/6f280675a3
 - https://maayanlab.cloud/g2e/gene_list/0/bae359d758
-##### Study: Dexamethasone effect on cultured airway smooth muscle cells: time course
+##### Study: Dexamethasone effect on cultured airway smooth muscle cells - time course
 - https://maayanlab.cloud/g2e/gene_list/0/161ab8e54f
 - https://maayanlab.cloud/g2e/gene_list/0/4a6508eccf
 ##### Study: In vivo glucocorticoid effect on non-leukemic peripheral blood lymphocytes
@@ -20,7 +20,7 @@ Note: I took only the combined gene lists, which appear to have both the up and 
 ##### Study: Cigarette smoke effect on tracheal explants
 - https://maayanlab.cloud/g2e/gene_list/0/df5c587c75
 - https://maayanlab.cloud/g2e/gene_list/0/13e360f51b
-##### Study: Osteosarcoma cell line response to activation of specific glucocorticoid receptor alpha isoforms: time course
+##### Study: Osteosarcoma cell line response to activation of specific glucocorticoid receptor alpha isoforms - time course
 - https://maayanlab.cloud/g2e/gene_list/0/2fe36ad8f8
 - https://maayanlab.cloud/g2e/gene_list/0/3d72dd1fd3
 - https://maayanlab.cloud/g2e/gene_list/0/ee15a72920
@@ -62,6 +62,7 @@ Note: I took only the combined gene lists, which appear to have both the up and 
 - https://maayanlab.cloud/g2e/gene_list/0/05a051ab49
 ##### Study: Exposure of rat to a variety of toxicants, liver assayed by Affymetrix microarray
 - https://maayanlab.cloud/g2e/gene_list/0/7a805fb006
+- https://maayanlab.cloud/g2e/gene_list/0/38503d65f1
 ##### Study: In vitro exposure of rat hepatocytes to a variety of toxicants, assayed by Affymetrix microarray
 - https://maayanlab.cloud/g2e/gene_list/0/8782e7579b
 - https://maayanlab.cloud/g2e/gene_list/0/531261b114
@@ -83,8 +84,6 @@ Note: I took only the combined gene lists, which appear to have both the up and 
 - https://maayanlab.cloud/g2e/gene_list/0/738f33a867
 ##### Study: Alveoli septation inhibition and protection
 - https://maayanlab.cloud/g2e/gene_list/0/29519ed4c9
-##### Study: Exposure of rat to a variety of toxicants, liver assayed by Affymetrix microarray
-- https://maayanlab.cloud/g2e/gene_list/0/38503d65f1
 ##### Study: SUMOylation Regulates the Anti-Proliferative Gene Signature Programs of Glucocorticoid Receptor (U2Os cell line)
 - https://maayanlab.cloud/g2e/gene_list/0/06bfea862f
 - https://maayanlab.cloud/g2e/gene_list/0/0f92c0fe46
@@ -95,7 +94,7 @@ Note: I took only the combined gene lists, which appear to have both the up and 
 ##### Study: Effect of chronic glucocorticoid (GC) treatment on neonatal mouse whole cerebellum and whole lung
 - https://maayanlab.cloud/g2e/gene_list/0/95104e4c91
 - https://maayanlab.cloud/g2e/gene_list/0/149f0da48c
-##### Study: Glucocorticoid Receptor Confers Resistance to Anti-Androgens by Bypassing Androgen Receptor Blockade.
+##### Study: Glucocorticoid Receptor Confers Resistance to Anti-Androgens by Bypassing Androgen Receptor Blockade
 - https://maayanlab.cloud/g2e/gene_list/0/8acb558f25
 - https://maayanlab.cloud/g2e/gene_list/0/afefe14536
 ##### Study: Microarray Study Reveals Hormone-Modulated Gene Transcription During Human Podocyte Differentiation
@@ -108,7 +107,7 @@ Note: I took only the combined gene lists, which appear to have both the up and 
 - https://maayanlab.cloud/g2e/gene_list/0/c523a910da
 - https://maayanlab.cloud/g2e/gene_list/0/3821c133fe
 - https://maayanlab.cloud/g2e/gene_list/0/6b34a7dcec
-##### Study: KLF15- and glucocorticoid-dependent transcriptional responses in mouse muscle.
+##### Study: KLF15- and glucocorticoid-dependent transcriptional responses in mouse muscle
 - https://maayanlab.cloud/g2e/gene_list/0/bf447eb664
 - https://maayanlab.cloud/g2e/gene_list/0/77643ae69a
 ##### Study: Distinct genome-wide, gene-specific selectivity patterns of four glucocorticoid receptor coregulators
@@ -117,7 +116,7 @@ Note: I took only the combined gene lists, which appear to have both the up and 
 - https://maayanlab.cloud/g2e/gene_list/0/ad0d0329f3
 - https://maayanlab.cloud/g2e/gene_list/0/3a3380c85f
 - https://maayanlab.cloud/g2e/gene_list/0/2c3723d9ed
-- https://maayanlab.cloud/g2e/gene_list/0/88a6e6bf20f
+- https://maayanlab.cloud/g2e/gene_list/0/88a6e6bf20
 ##### Study: Transcriptional responses of mouse adipocytes during insulin resistance
 - https://maayanlab.cloud/g2e/gene_list/0/563354c9be
 - https://maayanlab.cloud/g2e/gene_list/0/5ae9216046
@@ -126,7 +125,7 @@ Note: I took only the combined gene lists, which appear to have both the up and 
 - https://maayanlab.cloud/g2e/gene_list/0/7071e27028
 ##### Study: GR and ER co-activation alters the expression of differentiation genes and associates with improved ER+ breast cancer outcome
 - https://maayanlab.cloud/g2e/gene_list/0/e5e3f898fc
-##### Study: Hydrogen peroxide-inducible clone-5 deficiency effect on dexamethasone-treated osteosarcoma cells: time course
+##### Study: Hydrogen peroxide-inducible clone-5 deficiency effect on dexamethasone-treated osteosarcoma cells - time course
 - https://maayanlab.cloud/g2e/gene_list/0/a5f1231fe7
 - https://maayanlab.cloud/g2e/gene_list/0/d4fc12f5a3
 - https://maayanlab.cloud/g2e/gene_list/0/7e092778b9
