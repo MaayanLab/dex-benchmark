@@ -1,0 +1,13 @@
+Sample_geo_accession	Sample_title	Sample_characteristics_ch1
+GSM5632354	C1: Untreated control replicate 1	treatment: standard cultivation medium
+GSM5632355	C2: Untreated control replicate 2	treatment: standard cultivation medium
+GSM5632356	C3: Untreated control replicate 3	treatment: standard cultivation medium
+GSM5632357	Dex1: Dexamethason treated sample replicate 1	treatment: standard cultivation medium + dexamethason
+GSM5632358	Dex2: Dexamethason treated sample replicate 2	treatment: standard cultivation medium + dexamethason
+GSM5632359	Dex3: Dexamethason treated sample replicate 3	treatment: standard cultivation medium + dexamethason
+GSM5632360	Li1: Lithium treated sample replicate 1	treatment: standard cultivation medium + lithium
+GSM5632361	Li2: Lithium treated sample replicate 2	treatment: standard cultivation medium + lithium
+GSM5632362	Li3: Lithium treated sample replicate 3	treatment: standard cultivation medium + lithium
+GSM5632363	DL1: Dexamethason and lithium treated sample replicate 1	treatment: standard cultivation medium + dexamethason and lithium
+GSM5632364	DL2: Dexamethason and lithium treated sample replicate 2	treatment: standard cultivation medium + dexamethason and lithium
+GSM5632365	DL3: Dexamethason and lithium treated sample replicate 3	treatment: standard cultivation medium + dexamethason and lithium
