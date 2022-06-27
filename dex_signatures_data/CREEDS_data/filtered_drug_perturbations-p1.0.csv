@@ -1,0 +1,239 @@
+id,cell_type,ctrl_ids,drug_name,geo_id,organism,pert_ids,platform,version
+drug:P352,Cells [Chemical/Ingredient]|Entire breast,GSM109204|GSM109220,ethanol|dexamethasone,GSE4917,human,GSM109211|GSM109219|GSM109227,GPL96,2
+drug:P3430,Lymphoma cells|Cultured Cell Line,GSM1815466|GSM1815467,ethanol|dexamethasone|solvent,GSE71102,human,GSM1815470|GSM1815471,GPL10558,2
+drug:P4274,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398752|GSM398753,GPL6247,2
+drug:P5386,Cultured Cell Line|T-Lymphocyte|lymphoblast|Cells [Chemical/Ingredient],GSM829892|GSM829893,glucocorticoid|dimethyl sulfoxide|inhibitor|dexamethasone,GSE33562,human,GSM829898|GSM829899,GPL570,2
+drug:P4276,Spinal Cord,GSM398778|GSM398779,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398764|GSM398765,GPL6247,2
+drug:P4131,Spinal Cord,GSM398702|GSM398703,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398788|GSM398789,GPL6247,2
+drug:P4136,Spinal Cord,GSM398702|GSM398703,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398798|GSM398799,GPL6247,2
+drug:P4197,Spinal Cord,GSM398714|GSM398715,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398800|GSM398801,GPL6247,2
+drug:P4137,Spinal Cord,GSM398702|GSM398703,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398800|GSM398801,GPL6247,2
+drug:P4190,Spinal Cord,GSM398714|GSM398715,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398786|GSM398787,GPL6247,2
+drug:P4192,Spinal Cord,GSM398714|GSM398715,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398790|GSM398791,GPL6247,2
+drug:P4193,Spinal Cord,GSM398714|GSM398715,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398792|GSM398793,GPL6247,2
+drug:P4263,Spinal Cord,GSM398762|GSM398763,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398812|GSM398813,GPL6247,2
+drug:P4265,Spinal Cord,GSM398762|GSM398763,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398816|GSM398817,GPL6247,2
+drug:P4280,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398786|GSM398787,GPL6247,2
+drug:P4281,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398788|GSM398789,GPL6247,2
+drug:P4282,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398790|GSM398791,GPL6247,2
+drug:P4283,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398792|GSM398793,GPL6247,2
+drug:P4284,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398794|GSM398795,GPL6247,2
+drug:P4286,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398798|GSM398799,GPL6247,2
+drug:P4287,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398800|GSM398801,GPL6247,2
+drug:P4288,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398802|GSM398803,GPL6247,2
+drug:P4289,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398804|GSM398805,GPL6247,2
+drug:P5229,Myeloma cell|B-Lymphocytes|Cultured Cell Line|Cells|Apical ramus of posterior segmental artery,GSM759894|GSM759901,adenosine|glucocorticoid|adrenergic agonist|dexamethasone|agonist,GSE30644,human,GSM759899|GSM759906,GPL570,2
+drug:P5228,Myeloma cell|B-Lymphocytes|Cultured Cell Line|Cells|Apical ramus of posterior segmental artery,GSM759894|GSM759901,dexamethasone|adenosine|glucocorticoid|adrenergic agonist|agonist|salmeterol,GSE30644,human,GSM759898|GSM759905,GPL570,2
+drug:P2321,Right kidney|Blood|Both kidneys|Rat Kidney,GSM143444|GSM143448|GSM143452|GSM143456,corticotropin|dexamethasone,GSE6216,rat,GSM143442|GSM143450,GPL85,2
+drug:P2320,Right kidney|Blood|Left kidney|Both kidneys|Rat Kidney,GSM143441|GSM143443|GSM143445|GSM143447|GSM143449|GSM143451|GSM143453|GSM143455,dexamethasone,GSE6216,rat,GSM143446|GSM143454,GPL85,2
+drug:P2322,Right kidney|Blood|Both kidneys|Rat Kidney,GSM143444|GSM143448|GSM143452|GSM143456,dexamethasone,GSE6216,rat,GSM143446|GSM143454,GPL85,2
+drug:P4189,Spinal Cord,GSM398714|GSM398715,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398784|GSM398785,GPL6247,2
+drug:P4188,Spinal Cord,GSM398714|GSM398715,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398782|GSM398783,GPL6247,2
+drug:P4183,Spinal Cord,GSM398714|GSM398715,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398748|GSM398749,GPL6247,2
+drug:P4182,Spinal Cord,GSM398714|GSM398715,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398744|GSM398745,GPL6247,2
+drug:P2139,Spleen|Body tissue|lymphoblast|Entire vein|Cells [Chemical/Ingredient],GSM1388645|GSM1388646|GSM1388647|GSM1388651|GSM1388652|GSM1388653|GSM1388681|GSM1388682|GSM1388683|GSM1388687|GSM1388688|GSM1388689|GSM1388693|GSM1388694,dexamethasone,GSE57795,mouse,GSM1388648|GSM1388649|GSM1388650|GSM1388654|GSM1388655|GSM1388656|GSM1388684|GSM1388685|GSM1388686|GSM1388690|GSM1388691|GSM1388692|GSM1388695|GSM1388696|GSM1388697,GPL6884,2
+drug:P4180,Spinal Cord,GSM398714|GSM398715,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398734|GSM398735,GPL6247,2
+drug:P4187,Spinal Cord,GSM398714|GSM398715,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398780|GSM398781,GPL6247,2
+drug:P4186,Spinal Cord,GSM398714|GSM398715,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398764|GSM398765,GPL6247,2
+drug:P4185,Spinal Cord,GSM398714|GSM398715,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398758|GSM398759,GPL6247,2
+drug:P4184,Spinal Cord,GSM398714|GSM398715,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398752|GSM398753,GPL6247,2
+drug:P4138,Spinal Cord,GSM398702|GSM398703,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398802|GSM398803,GPL6247,2
+drug:P4139,Spinal Cord,GSM398702|GSM398703,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398804|GSM398805,GPL6247,2
+drug:P4270,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398734|GSM398735,GPL6247,2
+drug:P4117,Spinal Cord,GSM398702|GSM398703,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398720|GSM398721,GPL6247,2
+drug:P5385,Cultured Cell Line|T-Lymphocyte|lymphoblast|Cells [Chemical/Ingredient],GSM829892|GSM829893,glucocorticoid|dimethyl sulfoxide|inhibitor|dexamethasone,GSE33562,human,GSM829896|GSM829897,GPL570,2
+drug:P4168,Spinal Cord,GSM398706|GSM398707,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398802|GSM398803,GPL6247,2
+drug:P4119,Spinal Cord,GSM398702|GSM398703,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398730|GSM398731,GPL6247,2
+drug:P4176,Spinal Cord,GSM398706|GSM398707,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398820|GSM398821,GPL6247,2
+drug:P4177,Spinal Cord,GSM398714|GSM398715,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398720|GSM398721,GPL6247,2
+drug:P4174,Spinal Cord,GSM398706|GSM398707,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398814|GSM398815,GPL6247,2
+drug:P4175,Spinal Cord,GSM398706|GSM398707,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398816|GSM398817,GPL6247,2
+drug:P4172,Spinal Cord,GSM398706|GSM398707,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398810|GSM398811,GPL6247,2
+drug:P4173,Spinal Cord,GSM398706|GSM398707,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398812|GSM398813,GPL6247,2
+drug:P4170,Spinal Cord,GSM398706|GSM398707,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398806|GSM398807,GPL6247,2
+drug:P4171,Spinal Cord,GSM398706|GSM398707,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398808|GSM398809,GPL6247,2
+drug:P4178,Spinal Cord,GSM398714|GSM398715,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398724|GSM398725,GPL6247,2
+drug:P4179,Spinal Cord,GSM398714|GSM398715,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398730|GSM398731,GPL6247,2
+drug:P5162,Bone Marrow|Cells|Human bone for identification,GSM716073|GSM716074|GSM716075,lenalidomide|dexamethasone,GSE28896,human,GSM716067|GSM716068|GSM716069,GPL3921,2
+drug:P5163,Bone Marrow|Cells|Human bone for identification,GSM716073|GSM716074|GSM716075,dexamethasone|lenalidomide,GSE28896,human,GSM716070|GSM716071|GSM716072,GPL3921,2
+drug:P5161,Bone Marrow|Cells|Human bone for identification,GSM716073|GSM716074|GSM716075,dexamethasone|lenalidomide,GSE28896,human,GSM716064|GSM716065|GSM716066,GPL3921,2
+drug:P3752,Cells [Chemical/Ingredient],GSM276377|GSM276378|GSM276379,dexamethasone,GSE10900,mouse,GSM276381|GSM276382,GPL5137,2
+drug:P4903,Epidermis|keratinocyte|Cells,GSM651313|GSM651323,glucocorticoid|dexamethasone,GSE26487,human,GSM651315|GSM651325,GPL8300,2
+drug:P4902,Epidermis|keratinocyte|Cells,GSM651313|GSM651323,glucocorticoid|dexamethasone,GSE26487,human,GSM651314|GSM651324,GPL8300,2
+drug:P4901,Epidermis|keratinocyte|Cells,GSM651311|GSM651321,glucocorticoid|dexamethasone,GSE26487,human,GSM651318|GSM651328,GPL8300,2
+drug:P4900,Epidermis|keratinocyte|Cells,GSM651311|GSM651321,glucocorticoid|dexamethasone,GSE26487,human,GSM651317|GSM651327,GPL8300,2
+drug:P4905,Epidermis|keratinocyte|Cells,GSM651313|GSM651323,glucocorticoid|dexamethasone,GSE26487,human,GSM651317|GSM651327,GPL8300,2
+drug:P4904,Epidermis|keratinocyte|Cells,GSM651313|GSM651323,glucocorticoid|dexamethasone,GSE26487,human,GSM651316|GSM651326,GPL8300,2
+drug:P4248,Spinal Cord,GSM398762|GSM398763,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398782|GSM398783,GPL6247,2
+drug:P4249,Spinal Cord,GSM398762|GSM398763,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398784|GSM398785,GPL6247,2
+drug:P4245,Spinal Cord,GSM398762|GSM398763,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398758|GSM398759,GPL6247,2
+drug:P4246,Spinal Cord,GSM398762|GSM398763,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398764|GSM398765,GPL6247,2
+drug:P4241,Spinal Cord,GSM398762|GSM398763,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398738|GSM398739,GPL6247,2
+drug:P4243,Spinal Cord,GSM398762|GSM398763,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398748|GSM398749,GPL6247,2
+drug:P4887,Epidermis|keratinocyte|Cells,GSM651309|GSM651319,glucocorticoid|dexamethasone,GSE26487,human,GSM651314|GSM651324,GPL8300,2
+drug:P4194,Spinal Cord,GSM398714|GSM398715,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398794|GSM398795,GPL6247,2
+drug:P4195,Spinal Cord,GSM398714|GSM398715,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398796|GSM398797,GPL6247,2
+drug:P4191,Spinal Cord,GSM398714|GSM398715,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398788|GSM398789,GPL6247,2
+drug:P4198,Spinal Cord,GSM398714|GSM398715,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398802|GSM398803,GPL6247,2
+drug:P4199,Spinal Cord,GSM398714|GSM398715,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398804|GSM398805,GPL6247,2
+drug:P4279,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398784|GSM398785,GPL6247,2
+drug:P4271,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398738|GSM398739,GPL6247,2
+drug:P4273,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398748|GSM398749,GPL6247,2
+drug:P4272,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398744|GSM398745,GPL6247,2
+drug:P4275,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398758|GSM398759,GPL6247,2
+drug:P4277,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398780|GSM398781,GPL6247,2
+drug:P4252,Spinal Cord,GSM398762|GSM398763,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398790|GSM398791,GPL6247,2
+drug:P4256,Spinal Cord,GSM398762|GSM398763,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398798|GSM398799,GPL6247,2
+drug:P4251,Spinal Cord,GSM398762|GSM398763,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398788|GSM398789,GPL6247,2
+drug:P4250,Spinal Cord,GSM398762|GSM398763,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398786|GSM398787,GPL6247,2
+drug:P4257,Spinal Cord,GSM398762|GSM398763,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398800|GSM398801,GPL6247,2
+drug:P4255,Spinal Cord,GSM398762|GSM398763,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398796|GSM398797,GPL6247,2
+drug:P4254,Spinal Cord,GSM398762|GSM398763,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398794|GSM398795,GPL6247,2
+drug:P4899,Epidermis|keratinocyte|Cells,GSM651311|GSM651321,glucocorticoid|dexamethasone,GSE26487,human,GSM651316|GSM651326,GPL8300,2
+drug:P4898,Epidermis|keratinocyte|Cells,GSM651311|GSM651321,glucocorticoid|dexamethasone,GSE26487,human,GSM651315|GSM651325,GPL8300,2
+drug:P4891,Epidermis|keratinocyte|Cells,GSM651309|GSM651319,glucocorticoid|dexamethasone,GSE26487,human,GSM651318|GSM651328,GPL8300,2
+drug:P4890,Epidermis|keratinocyte|Cells,GSM651309|GSM651319,glucocorticoid|dexamethasone,GSE26487,human,GSM651317|GSM651327,GPL8300,2
+drug:P4893,Epidermis|keratinocyte|Cells,GSM651310|GSM651320,glucocorticoid|dexamethasone,GSE26487,human,GSM651315|GSM651325,GPL8300,2
+drug:P4894,Epidermis|keratinocyte|Cells,GSM651310|GSM651320,glucocorticoid|dexamethasone,GSE26487,human,GSM651316|GSM651326,GPL8300,2
+drug:P4897,Epidermis|keratinocyte|Cells,GSM651311|GSM651321,glucocorticoid|dexamethasone,GSE26487,human,GSM651314|GSM651324,GPL8300,2
+drug:P4896,Epidermis|keratinocyte|Cells,GSM651310|GSM651320,glucocorticoid|dexamethasone,GSE26487,human,GSM651318|GSM651328,GPL8300,2
+drug:P4208,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398724|GSM398725,GPL6247,2
+drug:P4209,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398730|GSM398731,GPL6247,2
+drug:P4792,Hepatocyte|Cells|Entire liver,GSM596582|GSM596583|GSM596584|GSM596585|GSM596586|GSM596587,ethanol|glucocorticoid|dexamethasone,GSE24255,rat,GSM596588|GSM596589|GSM596590|GSM596591|GSM596592|GSM596593,GPL4135,2
+drug:P4181,Spinal Cord,GSM398714|GSM398715,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398738|GSM398739,GPL6247,2
+drug:P4204,Spinal Cord,GSM398714|GSM398715,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398814|GSM398815,GPL6247,2
+drug:P4120,Spinal Cord,GSM398702|GSM398703,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398734|GSM398735,GPL6247,2
+drug:P4235,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398816|GSM398817,GPL6247,2
+drug:P4234,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398814|GSM398815,GPL6247,2
+drug:P4237,Spinal Cord,GSM398762|GSM398763,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398720|GSM398721,GPL6247,2
+drug:P4236,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398820|GSM398821,GPL6247,2
+drug:P4231,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398808|GSM398809,GPL6247,2
+drug:P4230,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398806|GSM398807,GPL6247,2
+drug:P4239,Spinal Cord,GSM398762|GSM398763,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398730|GSM398731,GPL6247,2
+drug:P4238,Spinal Cord,GSM398762|GSM398763,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398724|GSM398725,GPL6247,2
+drug:P4895,Epidermis|keratinocyte|Cells,GSM651310|GSM651320,glucocorticoid|dexamethasone,GSE26487,human,GSM651317|GSM651327,GPL8300,2
+drug:P4219,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398784|GSM398785,GPL6247,2
+drug:P4218,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398782|GSM398783,GPL6247,2
+drug:P4213,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398748|GSM398749,GPL6247,2
+drug:P3456,"Cultured Cell Line|Tumor cells, malignant|Malignant Epithelial Cell",GSM1823672|GSM1823680,ethanol|glucocorticoid|dexamethasone|solvent,GSE71099,human,GSM1823679|GSM1823687,GPL6104,2
+drug:P351,Cells [Chemical/Ingredient]|Entire breast,GSM109204|GSM109220,ethanol|dexamethasone,GSE4917,human,GSM109209|GSM109217|GSM109225,GPL96,2
+drug:P350,Cells [Chemical/Ingredient]|Entire breast,GSM109204|GSM109220,ethanol|dexamethasone,GSE4917,human,GSM109205|GSM109221,GPL96,2
+drug:P353,Cells [Chemical/Ingredient]|Entire breast,GSM109208|GSM109216|GSM109224,ethanol|dexamethasone,GSE4917,human,GSM109205|GSM109221,GPL96,2
+drug:P355,Cells [Chemical/Ingredient]|Entire breast,GSM109208|GSM109216|GSM109224,ethanol|dexamethasone,GSE4917,human,GSM109211|GSM109219|GSM109227,GPL96,2
+drug:P354,Cells [Chemical/Ingredient]|Entire breast,GSM109208|GSM109216|GSM109224,ethanol|dexamethasone,GSE4917,human,GSM109209|GSM109217|GSM109225,GPL96,2
+drug:P5226,Myeloma cell|B-Lymphocytes|Cultured Cell Line|Cells|Apical ramus of posterior segmental artery,GSM759894|GSM759901,dexamethasone|adenosine|glucocorticoid|adrenergic agonist|agonist,GSE30644,human,GSM759896|GSM759903,GPL570,2
+drug:P4129,Spinal Cord,GSM398702|GSM398703,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398784|GSM398785,GPL6247,2
+drug:P4128,Spinal Cord,GSM398702|GSM398703,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398782|GSM398783,GPL6247,2
+drug:P4285,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398796|GSM398797,GPL6247,2
+drug:P4906,Epidermis|keratinocyte|Cells,GSM651313|GSM651323,glucocorticoid|dexamethasone,GSE26487,human,GSM651318|GSM651328,GPL8300,2
+drug:P3429,Lymphoma cells|Cultured Cell Line,GSM1815466|GSM1815467,dexamethasone|ethanol|solvent,GSE71102,human,GSM1815468|GSM1815469,GPL10558,2
+drug:P4269,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398730|GSM398731,GPL6247,2
+drug:P5225,Myeloma cell|B-Lymphocytes|Cultured Cell Line|Cells|Apical ramus of posterior segmental artery,GSM759894|GSM759901,adenosine|glucocorticoid|adrenergic agonist|dexamethasone|agonist|salmeterol,GSE30644,human,GSM759895|GSM759902,GPL570,2
+drug:P5227,Myeloma cell|B-Lymphocytes|Cultured Cell Line|Cells|Apical ramus of posterior segmental artery,GSM759894|GSM759901,dexamethasone|adenosine|glucocorticoid|adrenergic agonist|agonist,GSE30644,human,GSM759897|GSM759904,GPL570,2
+drug:P5230,Myeloma cell|B-Lymphocytes|Cultured Cell Line|Cells|Apical ramus of posterior segmental artery,GSM759894|GSM759901,dexamethasone|adenosine|glucocorticoid|adrenergic agonist|agonist,GSE30644,human,GSM759900|GSM759907,GPL570,2
+drug:P4233,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398812|GSM398813,GPL6247,2
+drug:P4253,Spinal Cord,GSM398762|GSM398763,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398792|GSM398793,GPL6247,2
+drug:P4296,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398820|GSM398821,GPL6247,2
+drug:P4295,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398816|GSM398817,GPL6247,2
+drug:P4293,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398812|GSM398813,GPL6247,2
+drug:P4292,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398810|GSM398811,GPL6247,2
+drug:P4291,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398808|GSM398809,GPL6247,2
+drug:P4158,Spinal Cord,GSM398706|GSM398707,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398782|GSM398783,GPL6247,2
+drug:P4159,Spinal Cord,GSM398706|GSM398707,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398784|GSM398785,GPL6247,2
+drug:P4150,Spinal Cord,GSM398706|GSM398707,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398734|GSM398735,GPL6247,2
+drug:P4151,Spinal Cord,GSM398706|GSM398707,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398738|GSM398739,GPL6247,2
+drug:P4152,Spinal Cord,GSM398706|GSM398707,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398744|GSM398745,GPL6247,2
+drug:P4153,Spinal Cord,GSM398706|GSM398707,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398748|GSM398749,GPL6247,2
+drug:P4154,Spinal Cord,GSM398706|GSM398707,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398752|GSM398753,GPL6247,2
+drug:P4155,Spinal Cord,GSM398706|GSM398707,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398758|GSM398759,GPL6247,2
+drug:P4156,Spinal Cord,GSM398706|GSM398707,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398764|GSM398765,GPL6247,2
+drug:P4157,Spinal Cord,GSM398706|GSM398707,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398780|GSM398781,GPL6247,2
+drug:P4892,Epidermis|keratinocyte|Cells,GSM651310|GSM651320,glucocorticoid|dexamethasone,GSE26487,human,GSM651314|GSM651324,GPL8300,2
+drug:P4259,Spinal Cord,GSM398762|GSM398763,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398804|GSM398805,GPL6247,2
+drug:P4294,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398814|GSM398815,GPL6247,2
+drug:P4290,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398806|GSM398807,GPL6247,2
+drug:P1694,Entire cerebellum|Lung|Body tissue|Organ,GSM1240565|GSM1240566|GSM1240567|GSM1240568,glucocorticoid|dexamethasone|octacontaboron,GSE51213,mouse,GSM1240561|GSM1240562|GSM1240563|GSM1240564,GPL1261,2
+drug:P2319,Right kidney|Blood|Left kidney|Both kidneys|Rat Kidney,GSM143441|GSM143443|GSM143445|GSM143447|GSM143449|GSM143451|GSM143453|GSM143455,corticotropin|dexamethasone,GSE6216,rat,GSM143442|GSM143450,GPL85,2
+drug:P4123,Spinal Cord,GSM398702|GSM398703,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398748|GSM398749,GPL6247,2
+drug:P4122,Spinal Cord,GSM398702|GSM398703,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398744|GSM398745,GPL6247,2
+drug:P4125,Spinal Cord,GSM398702|GSM398703,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398758|GSM398759,GPL6247,2
+drug:P4124,Spinal Cord,GSM398702|GSM398703,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398752|GSM398753,GPL6247,2
+drug:P4127,Spinal Cord,GSM398702|GSM398703,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398780|GSM398781,GPL6247,2
+drug:P4126,Spinal Cord,GSM398702|GSM398703,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398764|GSM398765,GPL6247,2
+drug:P4205,Spinal Cord,GSM398714|GSM398715,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398816|GSM398817,GPL6247,2
+drug:P4278,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398782|GSM398783,GPL6247,2
+drug:P4148,Spinal Cord,GSM398706|GSM398707,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398724|GSM398725,GPL6247,2
+drug:P4145,Spinal Cord,GSM398702|GSM398703,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398816|GSM398817,GPL6247,2
+drug:P4141,Spinal Cord,GSM398702|GSM398703,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398808|GSM398809,GPL6247,2
+drug:P4140,Spinal Cord,GSM398702|GSM398703,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398806|GSM398807,GPL6247,2
+drug:P4913,Cultured Cell Line|Cells [Chemical/Ingredient],GSM661198|GSM661199|GSM661200,water|glucocorticoid|dexamethasone,GSE26857,human,GSM661201|GSM661202|GSM661203,GPL4133,2
+drug:P4165,Spinal Cord,GSM398706|GSM398707,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398796|GSM398797,GPL6247,2
+drug:P4164,Spinal Cord,GSM398706|GSM398707,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398794|GSM398795,GPL6247,2
+drug:P4167,Spinal Cord,GSM398706|GSM398707,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398800|GSM398801,GPL6247,2
+drug:P4166,Spinal Cord,GSM398706|GSM398707,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398798|GSM398799,GPL6247,2
+drug:P4161,Spinal Cord,GSM398706|GSM398707,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398788|GSM398789,GPL6247,2
+drug:P4160,Spinal Cord,GSM398706|GSM398707,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398786|GSM398787,GPL6247,2
+drug:P4163,Spinal Cord,GSM398706|GSM398707,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398792|GSM398793,GPL6247,2
+drug:P4162,Spinal Cord,GSM398706|GSM398707,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398790|GSM398791,GPL6247,2
+drug:P4169,Spinal Cord,GSM398706|GSM398707,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398804|GSM398805,GPL6247,2
+drug:P4149,Spinal Cord,GSM398706|GSM398707,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398730|GSM398731,GPL6247,2
+drug:P4147,Spinal Cord,GSM398706|GSM398707,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398720|GSM398721,GPL6247,2
+drug:P4146,Spinal Cord,GSM398702|GSM398703,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398820|GSM398821,GPL6247,2
+drug:P4144,Spinal Cord,GSM398702|GSM398703,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398814|GSM398815,GPL6247,2
+drug:P4143,Spinal Cord,GSM398702|GSM398703,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398812|GSM398813,GPL6247,2
+drug:P4142,Spinal Cord,GSM398702|GSM398703,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398810|GSM398811,GPL6247,2
+drug:P3454,"Cultured Cell Line|Tumor cells, malignant|Malignant Epithelial Cell",GSM1823672|GSM1823680,dexamethasone|ethanol|glucocorticoid|solvent,GSE71099,human,GSM1823677|GSM1823685,GPL6104,2
+drug:P3455,"Cultured Cell Line|Tumor cells, malignant|Malignant Epithelial Cell",GSM1823672|GSM1823680,dexamethasone|ethanol|glucocorticoid|solvent,GSE71099,human,GSM1823678|GSM1823686,GPL6104,2
+drug:P3450,"Cultured Cell Line|Tumor cells, malignant|Malignant Epithelial Cell",GSM1823672|GSM1823680,dexamethasone|ethanol|glucocorticoid|solvent,GSE71099,human,GSM1823673|GSM1823681,GPL6104,2
+drug:P4217,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398780|GSM398781,GPL6247,2
+drug:P4216,Spinal Cord,GSM398718|GSM398719,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398764|GSM398765,GPL6247,2
+drug:P3451,"Cultured Cell Line|Tumor cells, malignant|Malignant Epithelial Cell",GSM1823672|GSM1823680,ethanol|glucocorticoid|dexamethasone|solvent,GSE71099,human,GSM1823674|GSM1823682,GPL6104,2
+drug:P4215,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398758|GSM398759,GPL6247,2
+drug:P4214,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398752|GSM398753,GPL6247,2
+drug:P4212,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398744|GSM398745,GPL6247,2
+drug:P4211,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398738|GSM398739,GPL6247,2
+drug:P3452,"Cultured Cell Line|Tumor cells, malignant|Malignant Epithelial Cell",GSM1823672|GSM1823680,dexamethasone|ethanol|glucocorticoid|solvent,GSE71099,human,GSM1823675|GSM1823683,GPL6104,2
+drug:P4210,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398734|GSM398735,GPL6247,2
+drug:P4121,Spinal Cord,GSM398702|GSM398703,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398738|GSM398739,GPL6247,2
+drug:P3453,"Cultured Cell Line|Tumor cells, malignant|Malignant Epithelial Cell",GSM1823672|GSM1823680,ethanol|glucocorticoid|dexamethasone|solvent,GSE71099,human,GSM1823676|GSM1823684,GPL6104,2
+drug:P4196,Spinal Cord,GSM398714|GSM398715,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398798|GSM398799,GPL6247,2
+drug:P4268,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398724|GSM398725,GPL6247,2
+drug:P4262,Spinal Cord,GSM398762|GSM398763,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398810|GSM398811,GPL6247,2
+drug:P4260,Spinal Cord,GSM398762|GSM398763,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398806|GSM398807,GPL6247,2
+drug:P4261,Spinal Cord,GSM398762|GSM398763,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398808|GSM398809,GPL6247,2
+drug:P4266,Spinal Cord,GSM398762|GSM398763,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398820|GSM398821,GPL6247,2
+drug:P4267,Spinal Cord,GSM398778|GSM398779,water|6alpha-methylprednisolone,GSE15878,rat,GSM398720|GSM398721,GPL6247,2
+drug:P4264,Spinal Cord,GSM398762|GSM398763,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398814|GSM398815,GPL6247,2
+drug:P1695,Lung|Entire cerebellum|Body tissue|Organ,GSM1240565|GSM1240566|GSM1240567|GSM1240568,glucocorticoid|dexamethasone|octacontaboron,GSE51213,mouse,GSM1240569|GSM1240570|GSM1240571|GSM1240572,GPL1261,2
+drug:P1696,Lung|Entire cerebellum|Body tissue|Organ,GSM1240573|GSM1240574|GSM1240575|GSM1240576,glucocorticoid|dodecaboron|dexamethasone,GSE51213,mouse,GSM1240561|GSM1240562|GSM1240563|GSM1240564,GPL1261,2
+drug:P4200,Spinal Cord,GSM398714|GSM398715,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398806|GSM398807,GPL6247,2
+drug:P4203,Spinal Cord,GSM398714|GSM398715,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398812|GSM398813,GPL6247,2
+drug:P4244,Spinal Cord,GSM398762|GSM398763,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398752|GSM398753,GPL6247,2
+drug:P4247,Spinal Cord,GSM398762|GSM398763,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398780|GSM398781,GPL6247,2
+drug:P4240,Spinal Cord,GSM398762|GSM398763,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398734|GSM398735,GPL6247,2
+drug:P4242,Spinal Cord,GSM398762|GSM398763,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398744|GSM398745,GPL6247,2
+drug:P4888,Epidermis|keratinocyte|Cells,GSM651309|GSM651319,glucocorticoid|dexamethasone,GSE26487,human,GSM651315|GSM651325,GPL8300,2
+drug:P4889,Epidermis|keratinocyte|Cells,GSM651309|GSM651319,glucocorticoid|dexamethasone,GSE26487,human,GSM651316|GSM651326,GPL8300,2
+drug:P4226,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398798|GSM398799,GPL6247,2
+drug:P4227,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398800|GSM398801,GPL6247,2
+drug:P4224,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398794|GSM398795,GPL6247,2
+drug:P4225,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398796|GSM398797,GPL6247,2
+drug:P4222,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398790|GSM398791,GPL6247,2
+drug:P4223,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398792|GSM398793,GPL6247,2
+drug:P4220,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398786|GSM398787,GPL6247,2
+drug:P4221,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398788|GSM398789,GPL6247,2
+drug:P4228,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398802|GSM398803,GPL6247,2
+drug:P4229,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398804|GSM398805,GPL6247,2
+drug:P4201,Spinal Cord,GSM398714|GSM398715,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398808|GSM398809,GPL6247,2
+drug:P4202,Spinal Cord,GSM398714|GSM398715,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398810|GSM398811,GPL6247,2
+drug:P4206,Spinal Cord,GSM398714|GSM398715,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398820|GSM398821,GPL6247,2
+drug:P4207,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398720|GSM398721,GPL6247,2
+drug:P1697,Lung|Body tissue|Organ|Entire cerebellum,GSM1240573|GSM1240574|GSM1240575|GSM1240576,glucocorticoid|dodecaboron|dexamethasone,GSE51213,mouse,GSM1240569|GSM1240570|GSM1240571|GSM1240572,GPL1261,2
+drug:P4232,Spinal Cord,GSM398718|GSM398719,water|6alpha-methylprednisolone,GSE15878,rat,GSM398810|GSM398811,GPL6247,2
+drug:P4132,Spinal Cord,GSM398702|GSM398703,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398790|GSM398791,GPL6247,2
+drug:P4133,Spinal Cord,GSM398702|GSM398703,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398792|GSM398793,GPL6247,2
+drug:P4130,Spinal Cord,GSM398702|GSM398703,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398786|GSM398787,GPL6247,2
+drug:P4134,Spinal Cord,GSM398702|GSM398703,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398794|GSM398795,GPL6247,2
+drug:P4135,Spinal Cord,GSM398702|GSM398703,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398796|GSM398797,GPL6247,2
+drug:P4258,Spinal Cord,GSM398762|GSM398763,ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398802|GSM398803,GPL6247,2
+drug:P4118,Spinal Cord,GSM398702|GSM398703,water|ethanol|6alpha-methylprednisolone,GSE15878,rat,GSM398724|GSM398725,GPL6247,2
