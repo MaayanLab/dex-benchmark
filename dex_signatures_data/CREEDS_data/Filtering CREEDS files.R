@@ -2,6 +2,8 @@
 
 setwd("~/Documents/Harvard/Summer 2022/Mount Sinai/dex-benchmark/dex_signatures_data/CREEDS_data")
 
+if (!require(tidyverse)) install.packages("tidyverse"); library(tidyverse)
+
 # Read in files
 DM <- read_csv("single_drug_perturbations-DM.csv")
 p1 <- read_csv("single_drug_perturbations-p1.0.csv")
