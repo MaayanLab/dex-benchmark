@@ -1,9 +1,21 @@
 main {
     padding: 10px;
+    margin-right: 7%;
+    margin-left: 7%;
 }
 
 nav {
     background-color: #034270;
+}
+
+#nav-text {
+    margin-right: 7%;
+    margin-left: 7%;
+}
+
+footer {
+    background-color: #034270;
+    padding: 20px;
 }
 
 .center {
@@ -15,7 +27,7 @@ nav {
 .box {
     border: 1px solid #eeeeee;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    padding: 5px;
+    padding: 15px;
     flex: 2;
     margin: 5px;
     /* display: inline-block; */

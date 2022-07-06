@@ -13,7 +13,7 @@
     </head>
     <body>
         <nav class="border navbar navbar-expand-md navbar-light">
-            <div class="container-fluid">
+            <div class="container-fluid" id="nav-text">
                 <a class="navbar-brand" href="/index.html" style="color: #ffffff">Dexamethasone Benchmark</a>
                 <button aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#navbar" data-bs-toggle="collapse" type="button">
                     <span class="navbar-toggler-icon"></span>
@@ -29,7 +29,7 @@
             <h2>
                 The Dexamethasone Benchmark: Datasets and Code to Evaluate the Quality of Methods for Processing Omics Data
             </h2>
-            <img alt="graphical abstract" src="website/graphical_abstract.png" width="80%" class = "center">
+            <img alt="graphical abstract" src="website/graphical_abstract.png" width="60%" class = "center">
             <p>
                 Given recent technological advances that have made collecting information such as genetic sequences, gene expression, and molecule interactions quicker and more cost efficient, there is now a large wealth of biological data that can be used to answer new biological questions. Many tools and algorithms have been developed to analyze newly available omics data. Some examples include identifying differentially expressed genes, gene associations with cellular and organismal phenotypes, and the functional binding of proteins to regulatory sites on the genome. In order to evaluate methods that perform these tasks, there is a need for a benchmark which objectively compares the quality of tools and algorithms to maximally extract biological knowledge from the data. 
             </p>
@@ -69,6 +69,9 @@
                             <a href="https://docs.google.com/spreadsheets/d/12EHecge-pXMBdBkbi9WUEiMVlXcAwKelacoUEB42Plk/edit?usp=sharing">Compiled Spreadsheet</a>
                         </li>
                     </ul>
+                    <p>
+                        L1000
+                    </p>
                 </div>
                 <div class="box" id="code">
                     <b>
@@ -76,11 +79,65 @@
                     </b>
                     <ul>
                         <li>
+                            <a>Benchmarking Alignment Methods</a>
+                        </li>
+                        <li>
+                            <a>Benchmarking Data Normalization Methods</a>
+                        </li>
+                        <li>
+                            <a>Benchmarking Clustering Methods</a>
+                        </li>
+                        <li>
                             <a href="Benchmarking RNA-seq DEG Methods/Benchmarking RNA-seq DEG Methods with the Dexamethasone Benchmark.ipynb">Benchmarking RNA-seq DEG Methods</a>
+                        </li>
+                        <li>
+                            <a>Benchmarking Enrichment Analysis Methods</a>
                         </li>
                     </ul>
                 </div>
             </div>
         </main>
+        <footer class="footer">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-2 col-sm text-center">
+                        <a href="https://icahn.mssm.edu/research/bioinformatics" target="_blank">
+                            <img class="rounded" src="website/icahn_cb.png" style="height: 5rem;">
+                        </a>
+                    </div>
+                    <div class="col-md-2 col-sm text-center">
+                        <a href="http://lincs-dcic.org" target="_blank">
+                            <img class="rounded" src="website/dcic_light.png" style="height: 5rem;">
+                        </a>
+                    </div>
+                    <div class="col-md-2 col-sm text-center">
+                        <a href="https://labs.icahn.mssm.edu/maayanlab/" target="_blank">
+                            <img class="rounded" src="website/maayanlab_logo.png" style="height: 5rem;">
+                        </a>
+                    </div>
+                    <div class="col-md-2 col-sm">
+                        <div class="row my-2">
+                            <a class="badge badge-secondary px-2" href="https://github.com/MaayanLab/dex-benchmark" target="_blank">
+                                <span class="badge badge-light">
+                                    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+                                         style="width: 1rem;">
+                        </span>
+                                View source code
+                            </a>
+                        </div>
+                        <div class="row my-2">
+                            <a class="badge badge-secondary px-2"
+                               href="https://github.com/MaayanLab/dex-benchmark/issues/new" target="_blank">
+                                <span class="badge badge-light">
+                                <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+                                     style="width: 1rem;">
+                                    </span>
+                                Submit an issue
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
     </body>
 </html>
