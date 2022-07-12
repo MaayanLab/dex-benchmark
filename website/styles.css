@@ -18,6 +18,15 @@ footer {
     padding: 20px;
 }
 
+a {
+    text-decoration: none;
+    color: #1689E5;
+}
+
+img {
+    padding: 10px;
+}
+
 .center {
     display: block;
     margin-left: auto;
@@ -35,4 +44,16 @@ footer {
 
 #files {
     display: flex;
+}
+
+#about-content {
+    display: inline-flex;
+}
+
+#about-header {
+    padding-bottom: 10px;
+}
+
+.about-text {
+    padding-bottom: 20px;
 }
