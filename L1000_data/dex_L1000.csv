@@ -1,0 +1,468 @@
+tissue,disease,cell_line,pert_dose,pert_name,pert_time,pert_type,data_level,creation_time,persistent_id
+skin of body,melanoma,A375,10 uM,dexamethasone,6 h,Chemical,5,2021-05-14,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC014_A375_6H_H21_dexamethasone_10uM.tsv
+intestine,colon adenocarcinoma,HT29,10 uM,dexamethasone,6 h,Chemical,5,2021-05-14,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC014_HT29_6H_H21_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,10 uM,dexamethasone,24 h,Chemical,5,2021-05-14,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC014_PC3_24H_H21_dexamethasone_10uM.tsv
+liver,,PHH,10 uM,dexamethasone,24 h,Chemical,5,2021-05-14,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC014_PHH_24H_H21_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,VCAP,10 uM,dexamethasone,24 h,Chemical,5,2021-05-14,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC014_VCAP_24H_H21_dexamethasone_10uM.tsv
+lung,lung cancer,A549,10 uM,dexamethasone,24 h,Chemical,5,2021-05-14,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC014_A549_24H_H21_dexamethasone_10uM.tsv
+lung,lung cancer,A549,10 uM,dexamethasone,6 h,Chemical,5,2021-05-14,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC014_A549_6H_H21_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,10 uM,dexamethasone,6 h,Chemical,5,2021-05-14,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC014_PC3_6H_H21_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,24 h,Chemical,5,2021-05-14,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC014_MCF7_24H_H21_dexamethasone_10uM.tsv
+skeletal muscle organ,,SKB,10 uM,dexamethasone,24 h,Chemical,5,2021-05-14,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC014_SKB_24H_H21_dexamethasone_10uM.tsv
+kidney,,HA1E,10 uM,dexamethasone,6 h,Chemical,5,2021-05-14,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC014_HA1E_6H_H21_dexamethasone_10uM.tsv
+central nervous system,,NEU,10 uM,dexamethasone,24 h,Chemical,5,2021-05-14,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC014_NEU_24H_H21_dexamethasone_10uM.tsv
+lung,lung cancer,HCC515,10 uM,dexamethasone,6 h,Chemical,5,2021-05-14,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC014_HCC515_6H_H21_dexamethasone_10uM.tsv
+connective tissue,,NPC,10 uM,dexamethasone,24 h,Chemical,5,2021-05-14,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC014_NPC_24H_H21_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,0.04 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_MCF7_24H_N06_dexamethasone_0.04uM.tsv
+breast,breast adenocarcinoma,MCF7,0.37 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_MCF7_24H_N04_dexamethasone_0.37uM.tsv
+skin of body,melanoma,A375,0.37 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_A375_24H_N04_dexamethasone_0.37uM.tsv
+adipose tissue,,ASC,10 uM,dexamethasone,24 h,Chemical,5,2021-05-14,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC014_ASC_24H_H21_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,6 h,Chemical,5,2021-05-14,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC014_MCF7_6H_H21_dexamethasone_10uM.tsv
+liver,carcinoma,HEPG2,10 uM,dexamethasone,6 h,Chemical,5,2021-05-14,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC014_HEPG2_6H_H21_dexamethasone_10uM.tsv
+lung,lung cancer,A549,0.04 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_A549_24H_N06_dexamethasone_0.04uM.tsv
+uterine cervix,cervical adenocarcinoma,HELA,10 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_HELA_24H_N01_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MDAMB231,0.04 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_MDAMB231_24H_N06_dexamethasone_0.04uM.tsv
+kidney,,HEK293,0.04 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_HEK293_24H_N06_dexamethasone_0.04uM.tsv
+prostate gland,prostate adenocarcinoma,VCAP,10 uM,dexamethasone,6 h,Chemical,5,2021-05-14,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC014_VCAP_6H_H21_dexamethasone_10uM.tsv
+kidney,,HEK293,0.125 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_HEK293_24H_N05_dexamethasone_0.125uM.tsv
+liver,carcinoma,HEPG2,10 uM,dexamethasone,6 h,Chemical,5,2021-05-15,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC015_HEPG2_6H_C04_dexamethasone_10uM.tsv
+lung,lung cancer,A549,10 uM,dexamethasone,24 h,Chemical,5,2021-05-15,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC015_A549_24H_C04_dexamethasone_10uM.tsv
+blood,leukemia,JURKAT,10 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_JURKAT_24H_N01_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_MCF7_24H_N01_dexamethasone_10uM.tsv
+skin of body,melanoma,A375,10 uM,dexamethasone,6 h,Chemical,5,2021-05-15,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC015_A375_6H_C04_dexamethasone_10uM.tsv
+kidney,,HA1E,10 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_HA1E_24H_N01_dexamethasone_10uM.tsv
+breast,breast carcinoma,MCF10A,0.37 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_MCF10A_24H_N04_dexamethasone_0.37uM.tsv
+breast,breast carcinoma,MCF10A,10 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_MCF10A_24H_N01_dexamethasone_10uM.tsv
+kidney,,HEK293,10 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_HEK293_24H_N01_dexamethasone_10uM.tsv
+blood,leukemia,JURKAT,1.11 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_JURKAT_24H_N03_dexamethasone_1.11uM.tsv
+breast,breast adenocarcinoma,MDAMB231,3.33 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_MDAMB231_24H_N02_dexamethasone_3.33uM.tsv
+lung,lung cancer,A549,3.33 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_A549_24H_N02_dexamethasone_3.33uM.tsv
+breast,breast adenocarcinoma,MDAMB231,10 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_MDAMB231_24H_N01_dexamethasone_10uM.tsv
+lung,lung cancer,A549,0.37 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_A549_24H_N04_dexamethasone_0.37uM.tsv
+lung,lung cancer,A549,10 uM,dexamethasone,6 h,Chemical,5,2021-05-15,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC015_A549_6H_C04_dexamethasone_10uM.tsv
+kidney,,HA1E,1.11 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_HA1E_24H_N03_dexamethasone_1.11uM.tsv
+uterine cervix,cervical adenocarcinoma,HELA,3.33 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_HELA_24H_N02_dexamethasone_3.33uM.tsv
+breast,breast carcinoma,MCF10A,0.125 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_MCF10A_24H_N05_dexamethasone_0.125uM.tsv
+intestine,colon adenocarcinoma,HT29,3.33 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_HT29_24H_N02_dexamethasone_3.33uM.tsv
+blood,leukemia,JURKAT,0.125 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_JURKAT_24H_N05_dexamethasone_0.125uM.tsv
+skin of body,melanoma,A375,3.33 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_A375_24H_N02_dexamethasone_3.33uM.tsv
+uterine cervix,cervical adenocarcinoma,HELA,0.04 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_HELA_24H_N06_dexamethasone_0.04uM.tsv
+skin of body,melanoma,A375,1.11 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_A375_24H_N03_dexamethasone_1.11uM.tsv
+kidney,,HEK293,0.37 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_HEK293_24H_N04_dexamethasone_0.37uM.tsv
+lung,lung cancer,A549,1.11 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_A549_24H_N03_dexamethasone_1.11uM.tsv
+breast,breast carcinoma,MCF10A,0.04 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_MCF10A_24H_N06_dexamethasone_0.04uM.tsv
+uterine cervix,cervical adenocarcinoma,HELA,1.11 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_HELA_24H_N03_dexamethasone_1.11uM.tsv
+skin of body,melanoma,A375,10 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_A375_24H_N01_dexamethasone_10uM.tsv
+lung,lung cancer,A549,0.125 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_A549_24H_N05_dexamethasone_0.125uM.tsv
+uterine cervix,cervical adenocarcinoma,HELA,0.125 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_HELA_24H_N05_dexamethasone_0.125uM.tsv
+blood,leukemia,JURKAT,0.04 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_JURKAT_24H_N06_dexamethasone_0.04uM.tsv
+intestine,colon adenocarcinoma,HT29,1.11 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_HT29_24H_N03_dexamethasone_1.11uM.tsv
+lung,lung cancer,A549,10 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_A549_24H_N01_dexamethasone_10uM.tsv
+kidney,,HEK293,1.11 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_HEK293_24H_N03_dexamethasone_1.11uM.tsv
+skin of body,melanoma,A375,0.04 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_A375_24H_N06_dexamethasone_0.04uM.tsv
+intestine,colon adenocarcinoma,HT29,10 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_HT29_24H_N01_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,0.125 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_MCF7_24H_N05_dexamethasone_0.125uM.tsv
+kidney,,HA1E,0.04 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_HA1E_24H_N06_dexamethasone_0.04uM.tsv
+uterine cervix,cervical adenocarcinoma,HELA,0.37 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_HELA_24H_N04_dexamethasone_0.37uM.tsv
+breast,breast carcinoma,MCF10A,1.11 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_MCF10A_24H_N03_dexamethasone_1.11uM.tsv
+skin of body,melanoma,A375,0.125 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_A375_24H_N05_dexamethasone_0.125uM.tsv
+intestine,colon adenocarcinoma,HT29,0.04 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_HT29_24H_N06_dexamethasone_0.04uM.tsv
+breast,breast adenocarcinoma,MCF7,1.11 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_MCF7_24H_N03_dexamethasone_1.11uM.tsv
+breast,breast adenocarcinoma,MDAMB231,0.37 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_MDAMB231_24H_N04_dexamethasone_0.37uM.tsv
+intestine,colon adenocarcinoma,HT29,0.37 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_HT29_24H_N04_dexamethasone_0.37uM.tsv
+breast,breast adenocarcinoma,MDAMB231,0.125 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_MDAMB231_24H_N05_dexamethasone_0.125uM.tsv
+breast,breast carcinoma,MCF10A,3.33 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_MCF10A_24H_N02_dexamethasone_3.33uM.tsv
+kidney,,HA1E,3.33 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_HA1E_24H_N02_dexamethasone_3.33uM.tsv
+intestine,colon adenocarcinoma,HT29,0.125 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_HT29_24H_N05_dexamethasone_0.125uM.tsv
+kidney,,HA1E,0.125 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_HA1E_24H_N05_dexamethasone_0.125uM.tsv
+kidney,,HEK293,3.33 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_HEK293_24H_N02_dexamethasone_3.33uM.tsv
+breast,breast adenocarcinoma,MDAMB231,1.11 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_MDAMB231_24H_N03_dexamethasone_1.11uM.tsv
+kidney,,HA1E,0.37 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_HA1E_24H_N04_dexamethasone_0.37uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,24 h,Chemical,5,2021-05-15,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC015_MCF7_24H_C04_dexamethasone_10uM.tsv
+blood,leukemia,JURKAT,0.37 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_JURKAT_24H_N04_dexamethasone_0.37uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,0.04 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_PC3_24H_N06_dexamethasone_0.04uM.tsv
+breast,breast adenocarcinoma,MCF7,3.33 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_MCF7_24H_N02_dexamethasone_3.33uM.tsv
+blood,leukemia,JURKAT,3.33 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_JURKAT_24H_N02_dexamethasone_3.33uM.tsv
+pancreas,pancreatic carcinoma,YAPC,3.33 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_YAPC_24H_N02_dexamethasone_3.33uM.tsv
+pancreas,pancreatic carcinoma,YAPC,10 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_YAPC_24H_N01_dexamethasone_10uM.tsv
+pancreas,pancreatic carcinoma,YAPC,1.11 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_YAPC_24H_N03_dexamethasone_1.11uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,1.11 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_PC3_24H_N03_dexamethasone_1.11uM.tsv
+pancreas,pancreatic carcinoma,YAPC,0.04 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_YAPC_24H_N06_dexamethasone_0.04uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,10 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_PC3_24H_N01_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,3.33 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_PC3_24H_N02_dexamethasone_3.33uM.tsv
+pancreas,pancreatic carcinoma,YAPC,0.37 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_YAPC_24H_N04_dexamethasone_0.37uM.tsv
+,,MCLF117SZ,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR001_MCLF117SZ_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF027CN,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR003_MCLF027CN_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF051CN,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR008_MCLF051CN_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF033SZ,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR005_MCLF033SZ_6H_N17_dexamethasone_0.37uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,0.37 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_PC3_24H_N04_dexamethasone_0.37uM.tsv
+pancreas,pancreatic carcinoma,YAPC,0.125 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_YAPC_24H_N05_dexamethasone_0.125uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,0.125 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.A016_PC3_24H_N05_dexamethasone_0.125uM.tsv
+,,MCLF123SZ,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR009_MCLF123SZ_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF051CN,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR007_MCLF051CN_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF033SZ,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR006_MCLF033SZ_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF117SZ,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR002_MCLF117SZ_6H_N17_dexamethasone_0.37uM.tsv
+intestine,colon adenocarcinoma,SW620,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_SW620_6H_O03_dexamethasone_10uM.tsv
+intestine,colon adenocarcinoma,SW948,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_SW948_6H_O03_dexamethasone_10uM.tsv
+,,MCLF027CN,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR004_MCLF027CN_6H_N17_dexamethasone_0.37uM.tsv
+large intestine,colon adenocarcinoma,SW480,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_SW480_6H_F09_dexamethasone_10uM.tsv
+intestine,colon adenocarcinoma,SW948,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_SW948_6H_F09_dexamethasone_10uM.tsv
+lung,lung cancer,T3M10,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_T3M10_6H_O03_dexamethasone_10uM.tsv
+intestine,colon adenocarcinoma,SW620,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_SW620_6H_F09_dexamethasone_10uM.tsv
+large intestine,colon adenocarcinoma,SW480,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_SW480_6H_O03_dexamethasone_10uM.tsv
+kidney,,HA1E,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC020_HA1E_6H_N11_dexamethasone_10uM.tsv
+lung,lung cancer,T3M10,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_T3M10_6H_F09_dexamethasone_10uM.tsv
+skin of body,melanoma,A375,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC020_A375_6H_N11_dexamethasone_10uM.tsv
+lung,lung cancer,HCC515,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC020_HCC515_6H_N11_dexamethasone_10uM.tsv
+kidney,,HPTEC,320 uM,dexamethasone,24 h,Chemical,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_KTOX002_HPTEC_24H_C03_dexamethasone_320uM.tsv
+lung,lung cancer,A549,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC020_A549_6H_N11_dexamethasone_10uM.tsv
+kidney,,HPTEC,100 uM,dexamethasone,24 h,Chemical,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_KTOX002_HPTEC_24H_C05_dexamethasone_100uM.tsv
+kidney,,HPTEC,30 uM,dexamethasone,24 h,Chemical,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_KTOX002_HPTEC_24H_C07_dexamethasone_30uM.tsv
+kidney,,HPTEC,1000 uM,dexamethasone,24 h,Chemical,5,2021-05-05,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_KTOX002_HPTEC_24H_C01_dexamethasone_1000uM.tsv
+kidney,,HPTEC,3.33 uM,dexamethasone,24 h,Chemical,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_KTOX002_HPTEC_24H_C11_dexamethasone_3.33uM.tsv
+kidney,,HPTEC,10 uM,dexamethasone,24 h,Chemical,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_KTOX002_HPTEC_24H_C09_dexamethasone_10uM.tsv
+kidney,,HEK293,0.03 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_HEK293_24H_N05_dexamethasone_0.03uM.tsv
+breast,breast carcinoma,MCF10A,0.25 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_MCF10A_24H_N03_dexamethasone_0.25uM.tsv
+breast,breast carcinoma,MCF10A,0.01 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_MCF10A_24H_N06_dexamethasone_0.01uM.tsv
+skin of body,melanoma,A375,0.01 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_A375_24H_N06_dexamethasone_0.01uM.tsv
+intestine,colon adenocarcinoma,HT29,0.01 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_HT29_24H_N06_dexamethasone_0.01uM.tsv
+intestine,colon adenocarcinoma,HT29,0.25 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_HT29_24H_N03_dexamethasone_0.25uM.tsv
+uterine cervix,cervical adenocarcinoma,HELA,0.74 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_HELA_24H_N02_dexamethasone_0.74uM.tsv
+intestine,colon adenocarcinoma,HT29,0.03 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_HT29_24H_N05_dexamethasone_0.03uM.tsv
+skin of body,melanoma,A375,2.22 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_A375_24H_N01_dexamethasone_2.22uM.tsv
+kidney,,HEK293,0.25 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_HEK293_24H_N03_dexamethasone_0.25uM.tsv
+kidney,,HA1E,0.08 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_HA1E_24H_N04_dexamethasone_0.08uM.tsv
+kidney,,HA1E,0.01 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_HA1E_24H_N06_dexamethasone_0.01uM.tsv
+uterine cervix,cervical adenocarcinoma,HELA,0.01 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_HELA_24H_N06_dexamethasone_0.01uM.tsv
+breast,breast adenocarcinoma,MCF7,0.01 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_MCF7_24H_N06_dexamethasone_0.01uM.tsv
+kidney,,HEK293,0.08 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_HEK293_24H_N04_dexamethasone_0.08uM.tsv
+kidney,,HA1E,0.25 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_HA1E_24H_N03_dexamethasone_0.25uM.tsv
+intestine,colon adenocarcinoma,HT29,0.74 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_HT29_24H_N02_dexamethasone_0.74uM.tsv
+breast,breast adenocarcinoma,MCF7,0.08 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_MCF7_24H_N04_dexamethasone_0.08uM.tsv
+breast,breast adenocarcinoma,MCF7,0.03 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_MCF7_24H_N05_dexamethasone_0.03uM.tsv
+breast,breast adenocarcinoma,MCF7,2.22 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_MCF7_24H_N01_dexamethasone_2.22uM.tsv
+skin of body,melanoma,A375,0.03 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_A375_24H_N05_dexamethasone_0.03uM.tsv
+lung,lung cancer,A549,2.22 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_A549_24H_N01_dexamethasone_2.22uM.tsv
+blood,leukemia,JURKAT,2.22 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_JURKAT_24H_N01_dexamethasone_2.22uM.tsv
+breast,breast carcinoma,MCF10A,2.22 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_MCF10A_24H_N01_dexamethasone_2.22uM.tsv
+blood,leukemia,JURKAT,0.01 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_JURKAT_24H_N06_dexamethasone_0.01uM.tsv
+kidney,,HA1E,0.74 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_HA1E_24H_N02_dexamethasone_0.74uM.tsv
+intestine,colon adenocarcinoma,HT29,0.08 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_HT29_24H_N04_dexamethasone_0.08uM.tsv
+blood,leukemia,JURKAT,0.08 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_JURKAT_24H_N04_dexamethasone_0.08uM.tsv
+lung,lung cancer,A549,0.25 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_A549_24H_N03_dexamethasone_0.25uM.tsv
+lung,lung cancer,A549,0.08 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_A549_24H_N04_dexamethasone_0.08uM.tsv
+skin of body,melanoma,A375,0.74 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_A375_24H_N02_dexamethasone_0.74uM.tsv
+lung,lung cancer,A549,0.74 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_A549_24H_N02_dexamethasone_0.74uM.tsv
+skin of body,melanoma,A375,0.25 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_A375_24H_N03_dexamethasone_0.25uM.tsv
+uterine cervix,cervical adenocarcinoma,HELA,0.25 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_HELA_24H_N03_dexamethasone_0.25uM.tsv
+kidney,,HA1E,2.22 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_HA1E_24H_N01_dexamethasone_2.22uM.tsv
+kidney,,HEK293,0.01 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_HEK293_24H_N06_dexamethasone_0.01uM.tsv
+blood,leukemia,JURKAT,0.25 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_JURKAT_24H_N03_dexamethasone_0.25uM.tsv
+breast,breast carcinoma,MCF10A,0.03 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_MCF10A_24H_N05_dexamethasone_0.03uM.tsv
+uterine cervix,cervical adenocarcinoma,HELA,0.08 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_HELA_24H_N04_dexamethasone_0.08uM.tsv
+uterine cervix,cervical adenocarcinoma,HELA,2.22 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_HELA_24H_N01_dexamethasone_2.22uM.tsv
+kidney,,HA1E,0.03 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_HA1E_24H_N05_dexamethasone_0.03uM.tsv
+skin of body,melanoma,A375,0.08 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_A375_24H_N04_dexamethasone_0.08uM.tsv
+kidney,,HEK293,0.74 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_HEK293_24H_N02_dexamethasone_0.74uM.tsv
+intestine,colon adenocarcinoma,HT29,2.22 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_HT29_24H_N01_dexamethasone_2.22uM.tsv
+lung,lung cancer,A549,0.01 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_A549_24H_N06_dexamethasone_0.01uM.tsv
+breast,breast carcinoma,MCF10A,0.08 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_MCF10A_24H_N04_dexamethasone_0.08uM.tsv
+breast,breast adenocarcinoma,MCF7,0.74 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_MCF7_24H_N02_dexamethasone_0.74uM.tsv
+breast,breast adenocarcinoma,MCF7,0.25 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_MCF7_24H_N03_dexamethasone_0.25uM.tsv
+uterine cervix,cervical adenocarcinoma,HELA,0.03 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_HELA_24H_N05_dexamethasone_0.03uM.tsv
+kidney,,HEK293,2.22 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_HEK293_24H_N01_dexamethasone_2.22uM.tsv
+blood,leukemia,JURKAT,0.03 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_JURKAT_24H_N05_dexamethasone_0.03uM.tsv
+lung,lung cancer,A549,0.03 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_A549_24H_N05_dexamethasone_0.03uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,0.74 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_PC3_24H_N02_dexamethasone_0.74uM.tsv
+blood,leukemia,THP1,0.01 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_THP1_24H_N06_dexamethasone_0.01uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,0.01 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_PC3_24H_N06_dexamethasone_0.01uM.tsv
+blood,leukemia,THP1,0.03 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_THP1_24H_N05_dexamethasone_0.03uM.tsv
+breast,breast carcinoma,MCF10A,0.74 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_MCF10A_24H_N02_dexamethasone_0.74uM.tsv
+blood,leukemia,JURKAT,0.74 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_JURKAT_24H_N02_dexamethasone_0.74uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,0.08 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_PC3_24H_N04_dexamethasone_0.08uM.tsv
+breast,breast adenocarcinoma,MDAMB231,2.22 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_MDAMB231_24H_N01_dexamethasone_2.22uM.tsv
+pancreas,pancreatic carcinoma,YAPC,0.25 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_YAPC_24H_N03_dexamethasone_0.25uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,2.22 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_PC3_24H_N01_dexamethasone_2.22uM.tsv
+blood,leukemia,THP1,2.22 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_THP1_24H_N01_dexamethasone_2.22uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,0.25 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_PC3_24H_N03_dexamethasone_0.25uM.tsv
+pancreas,pancreatic carcinoma,YAPC,0.01 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_YAPC_24H_N06_dexamethasone_0.01uM.tsv
+blood,leukemia,THP1,0.25 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_THP1_24H_N03_dexamethasone_0.25uM.tsv
+pancreas,pancreatic carcinoma,YAPC,0.08 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_YAPC_24H_N04_dexamethasone_0.08uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,0.03 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_PC3_24H_N05_dexamethasone_0.03uM.tsv
+breast,breast adenocarcinoma,MDAMB231,0.25 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_MDAMB231_24H_N03_dexamethasone_0.25uM.tsv
+blood,leukemia,THP1,0.08 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_THP1_24H_N04_dexamethasone_0.08uM.tsv
+breast,breast adenocarcinoma,MDAMB231,0.03 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_MDAMB231_24H_N05_dexamethasone_0.03uM.tsv
+pancreas,pancreatic carcinoma,YAPC,0.03 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_YAPC_24H_N05_dexamethasone_0.03uM.tsv
+blood,leukemia,THP1,0.74 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_THP1_24H_N02_dexamethasone_0.74uM.tsv
+pancreas,pancreatic carcinoma,YAPC,0.74 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_YAPC_24H_N02_dexamethasone_0.74uM.tsv
+breast,breast adenocarcinoma,MDAMB231,0.74 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_MDAMB231_24H_N02_dexamethasone_0.74uM.tsv
+pancreas,pancreatic carcinoma,YAPC,2.22 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_YAPC_24H_N01_dexamethasone_2.22uM.tsv
+breast,breast adenocarcinoma,MDAMB231,0.08 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_MDAMB231_24H_N04_dexamethasone_0.08uM.tsv
+lung,lung cancer,A549,10 uM,dexamethasone,24 h,Chemical,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_DPK.CP001_A549_24H_F04_dexamethasone_10uM.tsv
+lung,lung cancer,A549,10 uM,dexamethasone,24 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_A549_24H_F09_dexamethasone_10uM.tsv
+connective tissue,,NPC,10 uM,dexamethasone,24 h,Chemical,5,2021-05-07,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC017_NPC_24H_M04_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,6 h,Chemical,5,2021-05-07,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC017_MCF7_6H_M04_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MDAMB231,0.01 uM,dexamethasone,24 h,Chemical,5,2021-05-22,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_REP.B016_MDAMB231_24H_N06_dexamethasone_0.01uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,24 h,Chemical,5,2021-05-07,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC017_MCF7_24H_M04_dexamethasone_10uM.tsv
+liver,,PHH,10 uM,dexamethasone,24 h,Chemical,5,2021-05-07,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC017_PHH_24H_M04_dexamethasone_10uM.tsv
+skeletal muscle organ,,SKB,10 uM,dexamethasone,24 h,Chemical,5,2021-05-07,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC017_SKB_24H_M04_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,0.12 uM,dexamethasone,48 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_MCF7_48H_E09_dexamethasone_0.12uM.tsv
+bone tissue,osteosarcoma,U2OS,1.11 uM,dexamethasone,24 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_U2OS_24H_E08_dexamethasone_1.11uM.tsv
+liver,carcinoma,HUH7,8 uM,dexamethasone,72 h,Chemical,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LIVB001_HUH7_72H_N13_dexamethasone_8uM.tsv
+breast,breast adenocarcinoma,MCF7,0.12 uM,dexamethasone,6 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_MCF7_6H_E09_dexamethasone_0.12uM.tsv
+bone tissue,osteosarcoma,U2OS,0.12 uM,dexamethasone,24 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_U2OS_24H_E09_dexamethasone_0.12uM.tsv
+breast,breast adenocarcinoma,MCF7,1.11 uM,dexamethasone,48 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_MCF7_48H_E08_dexamethasone_1.11uM.tsv
+breast,breast adenocarcinoma,MCF7,0.12 uM,dexamethasone,24 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_MCF7_24H_E09_dexamethasone_0.12uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,24 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_MCF7_24H_E07_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,6 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_MCF7_6H_E07_dexamethasone_10uM.tsv
+bone tissue,osteosarcoma,U2OS,10 uM,dexamethasone,48 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_U2OS_48H_E07_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,1.11 uM,dexamethasone,24 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_MCF7_24H_E08_dexamethasone_1.11uM.tsv
+bone tissue,osteosarcoma,U2OS,10 uM,dexamethasone,24 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_U2OS_24H_E07_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,1.11 uM,dexamethasone,6 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_MCF7_6H_E08_dexamethasone_1.11uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,48 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_MCF7_48H_E07_dexamethasone_10uM.tsv
+bone tissue,osteosarcoma,U2OS,10 uM,dexamethasone,6 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_U2OS_6H_E07_dexamethasone_10uM.tsv
+bone tissue,osteosarcoma,U2OS,1.11 uM,dexamethasone,6 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_U2OS_6H_E08_dexamethasone_1.11uM.tsv
+bone tissue,osteosarcoma,U2OS,0.12 uM,dexamethasone,48 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_U2OS_48H_E09_dexamethasone_0.12uM.tsv
+pancreas,pancreatic carcinoma,YAPC,10 uM,dexamethasone,6 h,Chemical,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LPROT004_YAPC_6H_H07_dexamethasone_10uM.tsv
+connective tissue,,NPC,10 uM,dexamethasone,6 h,Chemical,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LPROT002_NPC.TAK_6H_G08_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,10 uM,dexamethasone,6 h,Chemical,5,2021-05-07,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LPROT003_PC3_6H_G07_dexamethasone_10uM.tsv
+bone tissue,osteosarcoma,U2OS,0.12 uM,dexamethasone,6 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_U2OS_6H_E09_dexamethasone_0.12uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,6 h,Chemical,5,2021-05-07,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LPROT002_MCF7_6H_H08_dexamethasone_10uM.tsv
+skin of body,melanoma,A375,10 uM,dexamethasone,6 h,Chemical,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LPROT002_A375_6H_H07_dexamethasone_10uM.tsv
+bone tissue,osteosarcoma,U2OS,1.11 uM,dexamethasone,48 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_U2OS_48H_E08_dexamethasone_1.11uM.tsv
+lung,lung cancer,A549,10 uM,dexamethasone,6 h,Chemical,5,2021-05-07,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LPROT003_A549_6H_G08_dexamethasone_10uM.tsv
+ovary,ovarian carcinoma,TYKNU,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_TYKNU_6H_F09_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,VCAP,10 uM,dexamethasone,24 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_VCAP_24H_F09_dexamethasone_10uM.tsv
+blood,leukemia,THP1,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_THP1_6H_O03_dexamethasone_10uM.tsv
+lymphatic part of lymphoid system,lymphoma,U937,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_U937_6H_O03_dexamethasone_10uM.tsv
+lymphatic part of lymphoid system,lymphoma,U937,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_U937_6H_F09_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,VCAP,10 uM,dexamethasone,24 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_VCAP_24H_O03_dexamethasone_10uM.tsv
+lymphatic part of lymphoid system,lymphoma,WSUDLCL2,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_WSUDLCL2_6H_F09_dexamethasone_10uM.tsv
+ovary,ovarian carcinoma,TYKNU,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_TYKNU_6H_O03_dexamethasone_10uM.tsv
+blood,leukemia,THP1,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_THP1_6H_F09_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,VCAP,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_VCAP_6H_F09_dexamethasone_10uM.tsv
+lymphatic part of lymphoid system,lymphoma,WSUDLCL2,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_WSUDLCL2_6H_O03_dexamethasone_10uM.tsv
+intestine,colon adenocarcinoma,HT29,10 uM,dexamethasone,6 h,Chemical,5,2021-05-10,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC009_HT29_6H_I24_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,VCAP,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_VCAP_6H_O03_dexamethasone_10uM.tsv
+kidney,,HA1E,10 uM,dexamethasone,6 h,Chemical,5,2021-05-10,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC009_HA1E_6H_I24_dexamethasone_10uM.tsv
+lung,lung cancer,HCC515,10 uM,dexamethasone,6 h,Chemical,5,2021-05-10,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC009_HCC515_6H_I24_dexamethasone_10uM.tsv
+lung,lung cancer,A549,10 uM,dexamethasone,24 h,Chemical,5,2021-05-10,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC009_A549_24H_I24_dexamethasone_10uM.tsv
+liver,carcinoma,HEPG2,10 uM,dexamethasone,6 h,Chemical,5,2021-05-10,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC009_HEPG2_6H_I24_dexamethasone_10uM.tsv
+lung,lung cancer,A549,10 uM,dexamethasone,6 h,Chemical,5,2021-05-10,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC009_A549_6H_I24_dexamethasone_10uM.tsv
+skin of body,melanoma,A375,10 uM,dexamethasone,6 h,Chemical,5,2021-05-10,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC009_A375_6H_I24_dexamethasone_10uM.tsv
+kidney,,HA1E,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_HA1E_6H_F09_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,10 uM,dexamethasone,6 h,Chemical,5,2021-05-10,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC009_PC3_6H_I24_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,24 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_MCF7_24H_O03_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,VCAP,10 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC009_VCAP_6H_I24_dexamethasone_10uM.tsv
+skeletal muscle organ,,SKB,10 uM,dexamethasone,24 h,Chemical,5,2021-05-15,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC015_SKB_24H_C04_dexamethasone_10uM.tsv
+lung,lung cancer,HCC15,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_HCC15_6H_O03_dexamethasone_10uM.tsv
+endometrium,endometrial cancer,HEC108,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_HEC108_6H_O03_dexamethasone_10uM.tsv
+intestine,colon adenocarcinoma,HT29,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_HT29_6H_F09_dexamethasone_10uM.tsv
+kidney,,HA1E,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_HA1E_6H_O03_dexamethasone_10uM.tsv
+lung,lung cancer,HCC515,10 uM,dexamethasone,24 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_HCC515_24H_F09_dexamethasone_10uM.tsv
+lung,lung cancer,HCC515,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_HCC515_6H_O03_dexamethasone_10uM.tsv
+intestine,colon adenocarcinoma,HT29,10 uM,dexamethasone,24 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_HT29_24H_O03_dexamethasone_10uM.tsv
+kidney,,HA1E,10 uM,dexamethasone,24 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_HA1E_24H_O03_dexamethasone_10uM.tsv
+liver,carcinoma,HEPG2,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_HEPG2_6H_F09_dexamethasone_10uM.tsv
+intestine,colon carcinoma,HCT116,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_HCT116_6H_F09_dexamethasone_10uM.tsv
+kidney,,HA1E,10 uM,dexamethasone,24 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_HA1E_24H_F09_dexamethasone_10uM.tsv
+endometrium,endometrial cancer,HEC108,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_HEC108_6H_F09_dexamethasone_10uM.tsv
+large intestine,colon carcinoma,HT115,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_HT115_6H_F09_dexamethasone_10uM.tsv
+lung,lung cancer,HCC15,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_HCC15_6H_F09_dexamethasone_10uM.tsv
+intestine,colon adenocarcinoma,HT29,10 uM,dexamethasone,24 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_HT29_24H_F09_dexamethasone_10uM.tsv
+intestine,colon carcinoma,HCT116,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_HCT116_6H_O03_dexamethasone_10uM.tsv
+liver,carcinoma,HEPG2,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_HEPG2_6H_O03_dexamethasone_10uM.tsv
+intestine,colon adenocarcinoma,HT29,10 uM,dexamethasone,6 h,Chemical,5,2021-05-15,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC015_HT29_6H_C04_dexamethasone_10uM.tsv
+adipose tissue,,ASC,10 uM,dexamethasone,24 h,Chemical,5,2021-05-15,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC015_ASC_24H_C04_dexamethasone_10uM.tsv
+large intestine,colon carcinoma,HT115,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_HT115_6H_O03_dexamethasone_10uM.tsv
+lung,lung cancer,HCC515,10 uM,dexamethasone,24 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_HCC515_24H_O03_dexamethasone_10uM.tsv
+lung,lung cancer,HCC515,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_HCC515_6H_F09_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_PC3_6H_F09_dexamethasone_10uM.tsv
+intestine,colon adenocarcinoma,LOVO,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_LOVO_6H_F09_dexamethasone_10uM.tsv
+lung,lung cancer,NCIH596,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_NCIH596_6H_F09_dexamethasone_10uM.tsv
+lung,lung cancer,NCIH596,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_NCIH596_6H_O03_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,24 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_MCF7_24H_F09_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_MCF7_6H_F09_dexamethasone_10uM.tsv
+lung,lung cancer,NCIH1836,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_NCIH1836_6H_O03_dexamethasone_10uM.tsv
+intestine,colon adenocarcinoma,RKO,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_RKO_6H_F09_dexamethasone_10uM.tsv
+blood,leukemia,NOMO1,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_NOMO1_6H_F09_dexamethasone_10uM.tsv
+intestine,colon carcinoma,MDST8,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_MDST8_6H_O03_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,10 uM,dexamethasone,24 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_PC3_24H_F09_dexamethasone_10uM.tsv
+blood,leukemia,PL21,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_PL21_6H_F09_dexamethasone_10uM.tsv
+endometrium,endometrial cancer,JHUEM2,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_JHUEM2_6H_F09_dexamethasone_10uM.tsv
+blood,leukemia,PL21,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_PL21_6H_O03_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,6 h,Chemical,5,2021-05-15,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC015_MCF7_6H_C04_dexamethasone_10uM.tsv
+lung,lung cancer,NCIH2073,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_NCIH2073_6H_F09_dexamethasone_10uM.tsv
+blood,leukemia,NOMO1,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_NOMO1_6H_O03_dexamethasone_10uM.tsv
+intestine,colon adenocarcinoma,HT29,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_HT29_6H_O03_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_PC3_6H_O03_dexamethasone_10uM.tsv
+ovary,ovarian carcinoma,OV7,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_OV7_6H_O03_dexamethasone_10uM.tsv
+intestine,colon adenocarcinoma,LOVO,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_LOVO_6H_O03_dexamethasone_10uM.tsv
+large intestine,colon adenocarcinoma,NCIH508,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_NCIH508_6H_F09_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,10 uM,dexamethasone,24 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_PC3_24H_O03_dexamethasone_10uM.tsv
+endometrium,endometrial cancer,JHUEM2,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_JHUEM2_6H_O03_dexamethasone_10uM.tsv
+lung,lung cancer,NCIH2073,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_NCIH2073_6H_O03_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,6 h,Chemical,5,2021-05-10,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC009_MCF7_6H_I24_dexamethasone_10uM.tsv
+ovary,ovarian carcinoma,OV7,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_OV7_6H_F09_dexamethasone_10uM.tsv
+liver,,PHH,10 uM,dexamethasone,24 h,Chemical,5,2021-05-15,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC015_PHH_24H_C04_dexamethasone_10uM.tsv
+connective tissue,,NPC,10 uM,dexamethasone,24 h,Chemical,5,2021-05-15,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC015_NPC_24H_C04_dexamethasone_10uM.tsv
+intestine,colon carcinoma,MDST8,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_MDST8_6H_F09_dexamethasone_10uM.tsv
+lung,lung cancer,NCIH1836,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_NCIH1836_6H_F09_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_MCF7_6H_O03_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,VCAP,10 uM,dexamethasone,24 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC009_VCAP_24H_I24_dexamethasone_10uM.tsv
+lung,lung cancer,NCIH1694,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_NCIH1694_6H_F09_dexamethasone_10uM.tsv
+large intestine,colon adenocarcinoma,NCIH508,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_NCIH508_6H_O03_dexamethasone_10uM.tsv
+lung,lung cancer,NCIH1694,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_NCIH1694_6H_O03_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,24 h,Chemical,5,2021-05-10,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC009_MCF7_24H_I24_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,10 uM,dexamethasone,24 h,Chemical,5,2021-05-10,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC009_PC3_24H_I24_dexamethasone_10uM.tsv
+intestine,colon adenocarcinoma,RKO,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_RKO_6H_O03_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,24 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC020_MCF7_24H_N11_dexamethasone_10uM.tsv
+lung,lung cancer,A549,10 uM,dexamethasone,6 h,Chemical,5,2021-05-15,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC017_A549_6H_M04_dexamethasone_10uM.tsv
+lung,lung cancer,A549,10 uM,dexamethasone,24 h,Chemical,5,2021-05-15,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC017_A549_24H_M04_dexamethasone_10uM.tsv
+liver,carcinoma,HEPG2,10 uM,dexamethasone,6 h,Chemical,5,2021-05-15,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC017_HEPG2_6H_M04_dexamethasone_10uM.tsv
+adipose tissue,,ASC,10 uM,dexamethasone,24 h,Chemical,5,2021-05-15,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC017_ASC_24H_M04_dexamethasone_10uM.tsv
+skin of body,melanoma,A375,10 uM,dexamethasone,6 h,Chemical,5,2021-05-15,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC017_A375_6H_M04_dexamethasone_10uM.tsv
+intestine,colon adenocarcinoma,HT29,10 uM,dexamethasone,6 h,Chemical,5,2021-05-15,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC017_HT29_6H_M04_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC020_MCF7_6H_N11_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,VCAP,10 uM,dexamethasone,24 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC020_VCAP_24H_N11_dexamethasone_10uM.tsv
+intestine,colon adenocarcinoma,HT29,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC020_HT29_6H_N11_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,10 uM,dexamethasone,24 h,Chemical,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPD001_PC3_24H_I23_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,6 h,Chemical,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPD001_MCF7_6H_I23_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC020_PC3_6H_N11_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,6 h,Chemical,5,2021-05-07,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPD001_MCF7_6H_I22_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,10 uM,dexamethasone,24 h,Chemical,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPD001_PC3_24H_I22_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,VCAP,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC020_VCAP_6H_N11_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,10 uM,dexamethasone,24 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC020_PC3_24H_N11_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,24 h,Chemical,5,2021-05-07,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPD001_MCF7_24H_I22_dexamethasone_10uM.tsv
+ovary,ovarian carcinoma,RMGI,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_RMGI_6H_F09_dexamethasone_10uM.tsv
+kidney,,HA1E,20 uM,dexamethasone,24 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CRCGN004_HA1E_24H_G18_dexamethasone_20uM.tsv
+kidney,,HA1E,20 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CRCGN001_HA1E_6H_G18_dexamethasone_20uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,24 h,Chemical,5,2021-05-07,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPD001_MCF7_24H_I23_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,20 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CRCGN004_MCF7_6H_G18_dexamethasone_20uM.tsv
+kidney,,HA1E,20 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CRCGN004_HA1E_6H_G18_dexamethasone_20uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,20 uM,dexamethasone,24 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CRCGN004_PC3_24H_G18_dexamethasone_20uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,20 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CRCGN004_PC3_6H_G18_dexamethasone_20uM.tsv
+breast,,HMELZ,20 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CRCGN004_HMELZ_6H_G18_dexamethasone_20uM.tsv
+breast,,HMELZ,20 uM,dexamethasone,24 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CRCGN004_HMELZ_24H_G18_dexamethasone_20uM.tsv
+kidney,,HPTEC,3.33 uM,dexamethasone,6 h,Chemical,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_KTOX002_HPTEC_6H_C11_dexamethasone_3.33uM.tsv
+kidney,,HA1E,20 uM,dexamethasone,24 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CRCGN001_HA1E_24H_G18_dexamethasone_20uM.tsv
+,,MCLF100SZ,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR033_MCLF100SZ_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF054CN,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR032_MCLF054CN_6H_N17_dexamethasone_0.37uM.tsv
+skin of body,melanoma,A375,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC004_A375_6H_E13_dexamethasone_10uM.tsv
+kidney,,HPTEC,10 uM,dexamethasone,6 h,Chemical,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_KTOX002_HPTEC_6H_C09_dexamethasone_10uM.tsv
+kidney,,HA1E,10 uM,dexamethasone,24 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC004_HA1E_24H_E13_dexamethasone_10uM.tsv
+kidney,,HA1E,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC004_HA1E_6H_M24_dexamethasone_10uM.tsv
+kidney,,HA1E,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC004_HA1E_6H_E13_dexamethasone_10uM.tsv
+kidney,,HA1E,10 uM,dexamethasone,24 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC004_HA1E_24H_M24_dexamethasone_10uM.tsv
+kidney,,HPTEC,1000 uM,dexamethasone,6 h,Chemical,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_KTOX002_HPTEC_6H_C01_dexamethasone_1000uM.tsv
+kidney,,HPTEC,100 uM,dexamethasone,6 h,Chemical,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_KTOX002_HPTEC_6H_C05_dexamethasone_100uM.tsv
+kidney,,HPTEC,320 uM,dexamethasone,6 h,Chemical,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_KTOX002_HPTEC_6H_C03_dexamethasone_320uM.tsv
+kidney,,HPTEC,30 uM,dexamethasone,6 h,Chemical,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_KTOX002_HPTEC_6H_C07_dexamethasone_30uM.tsv
+lung,lung cancer,HCC515,10 uM,dexamethasone,24 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC004_HCC515_24H_E13_dexamethasone_10uM.tsv
+lung,lung cancer,HCC515,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC004_HCC515_6H_E13_dexamethasone_10uM.tsv
+skin of body,melanoma,A375,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC004_A375_6H_M24_dexamethasone_10uM.tsv
+lung,lung cancer,HCC515,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC004_HCC515_6H_M24_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,VCAP,10 uM,dexamethasone,6 h,Chemical,5,2021-05-10,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC004_VCAP_6H_E13_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC004_PC3_6H_M24_dexamethasone_10uM.tsv
+lung,lung cancer,HCC515,10 uM,dexamethasone,24 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC004_HCC515_24H_M24_dexamethasone_10uM.tsv
+intestine,colon adenocarcinoma,HT29,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC004_HT29_6H_E13_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC004_PC3_6H_E13_dexamethasone_10uM.tsv
+liver,carcinoma,HEPG2,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC004_HEPG2_6H_E13_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,VCAP,10 uM,dexamethasone,24 h,Chemical,5,2021-05-10,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC004_VCAP_24H_M24_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,10 uM,dexamethasone,24 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC004_PC3_24H_E13_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC004_MCF7_6H_M24_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,VCAP,10 uM,dexamethasone,6 h,Chemical,5,2021-05-10,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC004_VCAP_6H_M24_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,VCAP,10 uM,dexamethasone,24 h,Chemical,5,2021-05-10,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC004_VCAP_24H_E13_dexamethasone_10uM.tsv
+bone tissue,osteosarcoma,U2OS,12.5 uM,dexamethasone,6 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_PAC003_U2OS_6H_P03_dexamethasone_12.5uM.tsv
+intestine,colon adenocarcinoma,HT29,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC004_HT29_6H_M24_dexamethasone_10uM.tsv
+breast,breast adenocarcinoma,MCF7,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC004_MCF7_6H_E13_dexamethasone_10uM.tsv
+liver,carcinoma,HEPG2,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC004_HEPG2_6H_M24_dexamethasone_10uM.tsv
+prostate gland,prostate adenocarcinoma,PC3,10 uM,dexamethasone,24 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC004_PC3_24H_M24_dexamethasone_10uM.tsv
+connective tissue,,NPC,10 uM,dexamethasone,6 h,Chemical,5,2021-05-07,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_NMH002_FIBRNPC_6H_O17_dexamethasone_10uM.tsv
+bone tissue,osteosarcoma,U2OS,4 uM,dexamethasone,6 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_PAC002_U2OS_6H_F12_dexamethasone_4uM.tsv
+central nervous system,,NEU,10 uM,dexamethasone,24 h,Chemical,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_NMH002_NEU_24H_O17_dexamethasone_10uM.tsv
+connective tissue,,NPC,10 uM,dexamethasone,6 h,Chemical,5,2021-05-07,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_NMH002_NPC_6H_O17_dexamethasone_10uM.tsv
+central nervous system,,NEU,10 uM,dexamethasone,6 h,Chemical,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_NMH002_NEU_6H_O17_dexamethasone_10uM.tsv
+connective tissue,,NPC,10 uM,dexamethasone,24 h,Chemical,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_NMH002_FIBRNPC_24H_O17_dexamethasone_10uM.tsv
+connective tissue,,NPC,10 uM,dexamethasone,24 h,Chemical,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_NMH002_NPC_24H_O17_dexamethasone_10uM.tsv
+lung,lung cancer,SKLU1,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_SKLU1_6H_F09_dexamethasone_10uM.tsv
+large intestine,colon carcinoma,SNU1040,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_SNU1040_6H_O03_dexamethasone_10uM.tsv
+ovary,ovarian carcinoma,RMUGS,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_RMUGS_6H_F09_dexamethasone_10uM.tsv
+skin of body,melanoma,SKMEL1,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_SKMEL1_6H_F09_dexamethasone_10uM.tsv
+ovary,ovarian carcinoma,RMUGS,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_RMUGS_6H_O03_dexamethasone_10uM.tsv
+skin of body,melanoma,SKMEL28,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_SKMEL28_6H_F09_dexamethasone_10uM.tsv
+lung,lung cancer,SKLU1,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_SKLU1_6H_O03_dexamethasone_10uM.tsv
+skin of body,melanoma,SKMEL1,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_SKMEL1_6H_O03_dexamethasone_10uM.tsv
+ovary,ovarian carcinoma,RMGI,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_RMGI_6H_O03_dexamethasone_10uM.tsv
+blood,leukemia,SKM1,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_SKM1_6H_O03_dexamethasone_10uM.tsv
+blood,leukemia,SKM1,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_SKM1_6H_F09_dexamethasone_10uM.tsv
+intestine,colon adenocarcinoma,SNUC4,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_SNUC4_6H_O03_dexamethasone_10uM.tsv
+large intestine,colon carcinoma,SNU1040,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_SNU1040_6H_F09_dexamethasone_10uM.tsv
+large intestine,colon adenocarcinoma,SNUC5,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_SNUC5_6H_O03_dexamethasone_10uM.tsv
+skin of body,melanoma,SKMEL28,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_SKMEL28_6H_O03_dexamethasone_10uM.tsv
+large intestine,colon adenocarcinoma,SNUC5,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_SNUC5_6H_F09_dexamethasone_10uM.tsv
+endometrium,endometrial cancer,SNGM,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_SNGM_6H_O03_dexamethasone_10uM.tsv
+endometrium,endometrial cancer,SNGM,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_SNGM_6H_F09_dexamethasone_10uM.tsv
+intestine,colon adenocarcinoma,SNUC4,10 uM,dexamethasone,6 h,Chemical,5,2021-05-09,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_SNUC4_6H_F09_dexamethasone_10uM.tsv
+,,MCLF130CN,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR027_MCLF130CN_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF141SZ,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR025_MCLF141SZ_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF126CN,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR024_MCLF126CN_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF130CN,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR028_MCLF130CN_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF162SZ,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR014_MCLF162SZ_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF015CN,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR011_MCLF015CN_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF022CN,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR015_MCLF022CN_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF022CN,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR016_MCLF022CN_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF015CN,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR012_MCLF015CN_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF135CN,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR020_MCLF135CN_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF162SZ,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR013_MCLF162SZ_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF141SZ,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR026_MCLF141SZ_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF126CN,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR023_MCLF126CN_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF135CN,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR019_MCLF135CN_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF037SZ,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR022_MCLF037SZ_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF037SZ,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR021_MCLF037SZ_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF076SZ,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR018_MCLF076SZ_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF076SZ,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR017_MCLF076SZ_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF040SZ,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR029_MCLF040SZ_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF123SZ,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR010_MCLF123SZ_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF0067SZ,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR042_MCLF0067SZ_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF0067SZ,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR041_MCLF0067SZ_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF056CN,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR040_MCLF056CN_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF056CN,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR039_MCLF056CN_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF035SZ,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR038_MCLF035SZ_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF100SZ,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR034_MCLF100SZ_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF035SZ,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR037_MCLF035SZ_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF040SZ,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR030_MCLF040SZ_6H_N17_dexamethasone_0.37uM.tsv
+,,MCLF054CN,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR031_MCLF054CN_6H_N17_dexamethasone_0.37uM.tsv
+stomach,gastric adenocarcinoma,AGS,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_AGS_6H_O03_dexamethasone_10uM.tsv
+muscle organ,ewing's sarcoma,A673,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_A673_6H_F09_dexamethasone_10uM.tsv
+,,MCLF137CN,0.37 uM,dexamethasone,6 h,Chemical,5,2021-05-11,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_FIBR036_MCLF137CN_6H_N17_dexamethasone_0.37uM.tsv
+skin of body,melanoma,A375,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_A375_6H_F09_dexamethasone_10uM.tsv
+stomach,gastric adenocarcinoma,AGS,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_AGS_6H_F09_dexamethasone_10uM.tsv
+lung,lung cancer,A549,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_A549_6H_O03_dexamethasone_10uM.tsv
+ovary,ovarian carcinoma,COV644,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_COV644_6H_F09_dexamethasone_10uM.tsv
+lung,lung cancer,H1299,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_H1299_6H_F09_dexamethasone_10uM.tsv
+ovary,ovarian carcinoma,COV644,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_COV644_6H_O03_dexamethasone_10uM.tsv
+large intestine,colon adenocarcinoma,CL34,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_CL34_6H_O03_dexamethasone_10uM.tsv
+lung,lung cancer,A549,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_A549_6H_F09_dexamethasone_10uM.tsv
+lung,lung cancer,DV90,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_DV90_6H_F09_dexamethasone_10uM.tsv
+large intestine,colon adenocarcinoma,CL34,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_CL34_6H_F09_dexamethasone_10uM.tsv
+skin of body,melanoma,A375,10 uM,dexamethasone,24 h,Chemical,5,2021-05-07,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_A375_24H_F09_dexamethasone_10uM.tsv
+lung,lung cancer,A549,10 uM,dexamethasone,24 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_A549_24H_O03_dexamethasone_10uM.tsv
+ovary,ovarian carcinoma,EFO27,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_EFO27_6H_O03_dexamethasone_10uM.tsv
+ovary,ovarian carcinoma,EFO27,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_EFO27_6H_F09_dexamethasone_10uM.tsv
+muscle organ,ewing's sarcoma,A673,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_A673_6H_O03_dexamethasone_10uM.tsv
+skin of body,melanoma,A375,10 uM,dexamethasone,24 h,Chemical,5,2021-05-07,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_A375_24H_O03_dexamethasone_10uM.tsv
+skin of body,melanoma,A375,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_A375_6H_O03_dexamethasone_10uM.tsv
+lung,lung cancer,DV90,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_DV90_6H_O03_dexamethasone_10uM.tsv
+lung,lung cancer,H1299,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_H1299_6H_O03_dexamethasone_10uM.tsv
+lung,lung cancer,CORL23,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_CORL23_6H_F09_dexamethasone_10uM.tsv
+lung,lung cancer,A549,0.12 uM,dexamethasone,48 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_A549_48H_E09_dexamethasone_0.12uM.tsv
+lung,lung cancer,A549,10 uM,dexamethasone,6 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_A549_6H_E07_dexamethasone_10uM.tsv
+lung,lung cancer,A549,0.12 uM,dexamethasone,6 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_A549_6H_E09_dexamethasone_0.12uM.tsv
+lung,lung cancer,A549,1.11 uM,dexamethasone,6 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_A549_6H_E08_dexamethasone_1.11uM.tsv
+lung,lung cancer,CORL23,10 uM,dexamethasone,6 h,Chemical,5,2021-05-08,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_CPC006_CORL23_6H_O03_dexamethasone_10uM.tsv
+lung,lung cancer,A549,10 uM,dexamethasone,48 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_A549_48H_E07_dexamethasone_10uM.tsv
+lung,lung cancer,A549,1.11 uM,dexamethasone,24 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_A549_24H_E08_dexamethasone_1.11uM.tsv
+lung,lung cancer,A549,1.11 uM,dexamethasone,48 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_A549_48H_E08_dexamethasone_1.11uM.tsv
+lung,lung cancer,A549,0.12 uM,dexamethasone,24 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_A549_24H_E09_dexamethasone_0.12uM.tsv
+lung,lung cancer,A549,10 uM,dexamethasone,24 h,Chemical,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/cp/L1000_LINCS_DCIC_LKCP002_A549_24H_E07_dexamethasone_10uM.tsv

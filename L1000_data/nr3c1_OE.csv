@@ -1,0 +1,19 @@
+tissue,disease,cell_line,pert_name,pert_time,pert_type,data_level,creation_time,persistent_id,pert_dose
+prostate gland,prostate adenocarcinoma,PC3,NR3C1,96 h,Overexpression,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/oe/L1000_LINCS_DCIC_OEB005_PC3_96H_L14_NR3C1.tsv,
+breast,breast adenocarcinoma,MCF7,NR3C1,96 h,Overexpression,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/oe/L1000_LINCS_DCIC_OEB005_MCF7_96H_L14_NR3C1.tsv,
+intestine,colon adenocarcinoma,HT29,NR3C1,96 h,Overexpression,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/oe/L1000_LINCS_DCIC_OEB005_HT29_96H_L14_NR3C1.tsv,
+liver,carcinoma,HEPG2,NR3C1,96 h,Overexpression,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/oe/L1000_LINCS_DCIC_OEB005_HEPG2_96H_L14_NR3C1.tsv,
+lung,lung cancer,HCC515,NR3C1,96 h,Overexpression,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/oe/L1000_LINCS_DCIC_OEB005_HCC515_96H_L14_NR3C1.tsv,
+kidney,,HA1E,NR3C1,96 h,Overexpression,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/oe/L1000_LINCS_DCIC_OEB005_HA1E_96H_L14_NR3C1.tsv,
+skin of body,melanoma,A375,NR3C1,96 h,Overexpression,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/oe/L1000_LINCS_DCIC_OEB005_A375_96H_L14_NR3C1.tsv,
+lung,lung cancer,A549,NR3C1,96 h,Overexpression,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/oe/L1000_LINCS_DCIC_OEB005_A549_96H_L14_NR3C1.tsv,
+kidney,,HEK293T,NR3C1,96 h,Overexpression,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/oe/L1000_LINCS_DCIC_MDVL001_293T_96H_E01_NR3C1_200ng.tsv,200 ng
+kidney,,HEK293T,NR3C1,96 h,Overexpression,5,2021-05-05,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/oe/L1000_LINCS_DCIC_MDVL001_293T_96H_C23_NR3C1_200ng.tsv,200 ng
+kidney,,HEK293T,NR3C1,96 h,Overexpression,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/oe/L1000_LINCS_DCIC_MDVL001_293T_96H_C21_NR3C1_200ng.tsv,200 ng
+kidney,,HEK293T,NR3C1,96 h,Overexpression,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/oe/L1000_LINCS_DCIC_MDVL001_293T_96H_C19_NR3C1_200ng.tsv,200 ng
+kidney,,HEK293T,NR3C1,96 h,Overexpression,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/oe/L1000_LINCS_DCIC_MDVL001_293T_96H_C17_NR3C1_200ng.tsv,200 ng
+kidney,,HEK293T,NR3C1,72 h,Overexpression,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/oe/L1000_LINCS_DCIC_MDVL001_293T_72H_E01_NR3C1_200ng.tsv,200 ng
+kidney,,HEK293T,NR3C1,72 h,Overexpression,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/oe/L1000_LINCS_DCIC_MDVL001_293T_72H_C23_NR3C1_200ng.tsv,200 ng
+kidney,,HEK293T,NR3C1,72 h,Overexpression,5,2021-05-19,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/oe/L1000_LINCS_DCIC_MDVL001_293T_72H_C21_NR3C1_200ng.tsv,200 ng
+kidney,,HEK293T,NR3C1,72 h,Overexpression,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/oe/L1000_LINCS_DCIC_MDVL001_293T_72H_C19_NR3C1_200ng.tsv,200 ng
+kidney,,HEK293T,NR3C1,72 h,Overexpression,5,2021-05-06,https://lincs-dcic.s3.amazonaws.com/LINCS-sigs-2021/cd/oe/L1000_LINCS_DCIC_MDVL001_293T_72H_C17_NR3C1_200ng.tsv,200 ng
