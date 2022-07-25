@@ -1,0 +1,7 @@
+Sample_geo_accession	Sample_title	Sample_characteristics_ch1
+GSM5632354	C1: Untreated control replicate 1	treatment: standard cultivation medium
+GSM5632355	C2: Untreated control replicate 2	treatment: standard cultivation medium
+GSM5632356	C3: Untreated control replicate 3	treatment: standard cultivation medium
+GSM5632357	Dex1: Dexamethason treated sample replicate 1	treatment: standard cultivation medium + dexamethason
+GSM5632358	Dex2: Dexamethason treated sample replicate 2	treatment: standard cultivation medium + dexamethason
+GSM5632359	Dex3: Dexamethason treated sample replicate 3	treatment: standard cultivation medium + dexamethason
