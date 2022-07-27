@@ -1,0 +1,7 @@
+Sample_geo_accession	Sample_title	Sample_characteristics_ch1
+GSM4490660	1LQ	vehicle
+GSM4490661	3LQ	vehicle
+GSM4490662	5LQ	vehicle
+GSM4490663	2LQ	dexamethasone
+GSM4490664	4LQ	dexamethasone
+GSM4490665	6LQ	dexamethasone

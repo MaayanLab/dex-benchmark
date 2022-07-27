@@ -1,0 +1,13 @@
+Sample_geo_accession	Sample_characteristics_ch1
+GSM4217250	treatment condition: VEH
+GSM4217251	treatment condition: DEX
+GSM4217252	treatment condition: VEH
+GSM4217253	treatment condition: DEX
+GSM4217254	treatment condition: VEH
+GSM4217255	treatment condition: DEX
+GSM4217256	treatment condition: VEH
+GSM4217257	treatment condition: DEX
+GSM4217258	treatment condition: VEH
+GSM4217259	treatment condition: DEX
+GSM4217260	treatment condition: VEH
+GSM4217261	treatment condition: DEX

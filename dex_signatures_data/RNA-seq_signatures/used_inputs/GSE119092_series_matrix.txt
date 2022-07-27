@@ -1,0 +1,5 @@
+Sample_geo_accession	Sample_title	Sample_characteristics_ch1
+GSM3357729	control siRNA [RNA-seq]	treatment: control siRNA
+GSM3357730	control siRNA + DEX [RNA-seq]	treatment: control siRNA + DEX
+GSM3357731	GR siRNA [RNA-seq]	treatment: GR siRNA
+GSM3357732	GR siRNA + DEX [RNA-seq]	treatment: GR siRNA + DEX
