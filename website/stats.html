@@ -2,13 +2,13 @@
 
 <html lang="en">
     <head>
-        <!--Styling-->
-        <link href="styles.css" rel="stylesheet">
-        <link href="favicon.ico" rel="icon">
-
         <!-- http://getbootstrap.com/docs/5.1/ -->
         <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" rel="stylesheet">
         <script crossorigin="anonymous" src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"></script>
+
+        <!--Styling-->
+        <link href="styles.css" rel="stylesheet">
+        <link href="favicon.ico" rel="icon">
 
         <title>Dexamethasone Benchmark</title>
     </head>
@@ -16,7 +16,7 @@
         <nav class="border navbar navbar-expand-md navbar-light">
             <div class="container-fluid" id="nav-text">
                 <img alt="logo" src="logo.png" style="height: 3.5rem;">
-                <a class="navbar-brand" href="../index.html" style="color: #ffffff">Dexamethasone Benchmark</a>
+                <a class="navbar-brand" href="../index.html" style="color: #ffffff">Dexamethasone Benchmarking Resource</a>
                 <button aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#navbar" data-bs-toggle="collapse" type="button">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -36,41 +36,40 @@
             <table class="table">
                 <thead></thead>
                 <tr>
-                    <td>Data Sources: GEO, CREEDS, GEN3VA, SigCom LINCS, ENCODE, ReMap, ChEA3, Pubmed</td>
-                    <td></td>
+                    <td>Data Sources*</td>
+                    <td class="text-end"> 6</td>
                 </tr>
                 <tr>
-                    <td>Total Datasets</td>
+                    <td>Data Collections</td>
                     <td class="text-end">9</td>
                 </tr>
                 <tr>
-                    <td>Total Data Entries</td>
+                    <td>Data Entries</td>
                     <td class="text-end">1065</td>
                 </tr>
                 <tr>
-                    <td>Total Computed Signatures</td>
+                    <td>Computed Signatures</td>
                     <td class="text-end">675</td>
                 </tr>
                 <tr>
-                    <td>Total Organisms</td>
+                    <td>Organisms</td>
                     <td class="text-end">6</td>
                 </tr>
                 <tr>
-                    <td>Total Notebooks</td>
+                    <td>Notebooks</td>
                     <td class="text-end">2</td>
                 </tr>
                 <tfoot><tr></tr></tfoot>
             </table>
             <div class="row">
-                <div class="text-center">
-                    <h4>Data Entries by Sequencing Type</h4>
-                    <img alt="bar graph by type" src="type.png" width="100%">
+                <div>
+                    <img alt="bar graph by type" src="type.png" width="100%" style="padding:0px">
                 </div>
                 <div class="text-center">
-                    <h4>Data Entries by Source</h4>
-                    <img alt=" bar graph by source" src="source.png" width="100%">
+                    <img alt=" bar graph by source" src="source.png" width="100%" style="padding:0px">
                 </div>
             </div>
+            <p>*See the <a href="about.html">About</a> page for data sources and citations</p>
         </main>
         <footer class="footer">
             <div class="container">
@@ -88,20 +87,11 @@
                     <div class="col-md-2 col-sm">
                         <div class="row my-2">
                             <a class="badge badge-secondary px-2" href="https://github.com/MaayanLab/dex-benchmark" target="_blank">
-                                <span class="badge badge-light">
-                                    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-                                         style="width: 1rem;">
-                        </span>
                                 View source code
                             </a>
                         </div>
                         <div class="row my-2">
-                            <a class="badge badge-secondary px-2"
-                               href="https://github.com/MaayanLab/dex-benchmark/issues/new" target="_blank">
-                                <span class="badge badge-light">
-                                <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-                                     style="width: 1rem;">
-                                    </span>
+                            <a class="badge badge-secondary px-2" href="https://github.com/MaayanLab/dex-benchmark/issues/new" target="_blank">
                                 Submit an issue
                             </a>
                         </div>

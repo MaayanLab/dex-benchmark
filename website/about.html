@@ -2,13 +2,13 @@
 
 <html lang="en">
     <head>
-        <!--Styling-->
-        <link href="styles.css" rel="stylesheet">
-        <link href="favicon.ico" rel="icon">
-
         <!-- http://getbootstrap.com/docs/5.1/ -->
         <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" rel="stylesheet">
         <script crossorigin="anonymous" src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"></script>
+
+        <!--Styling-->
+        <link href="styles.css" rel="stylesheet">
+        <link href="favicon.ico" rel="icon">
 
         <title>Dexamethasone Benchmark</title>
     </head>
@@ -16,7 +16,7 @@
         <nav class="border navbar navbar-expand-md navbar-light">
             <div class="container-fluid" id="nav-text">
                 <img alt="logo" src="logo.png" style="height: 3.5rem;">
-                <a class="navbar-brand" href="../index.html" style="color: #ffffff">Dexamethasone Benchmark</a>
+                <a class="navbar-brand" href="../index.html" style="color: #ffffff">Dexamethasone Benchmarking Resource</a>
                 <button aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#navbar" data-bs-toggle="collapse" type="button">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -28,15 +28,14 @@
                 </div>
             </div>
         </nav>
-    </body>
     <main class="py-4">
         <h2 id="about-header">
-            About the Dexamethasone Benchmark
+            About the Dexamethasone Benchmarking Resource 
         </h2>
         <div id="about-content">
             <div>
                 <p class="about-text">
-                    Given recent technological advances that have made collecting information such as genetic sequences, gene expression, and molecule interactions quicker and more cost efficient, there is now a large wealth of biological data that can be used to answer new biological questions. Many tools and algorithms have been developed to analyze newly available omics data. Some examples include identifying differentially expressed genes, gene associations with cellular and organismal phenotypes, and the functional binding of proteins to regulatory sites on the genome. In order to evaluate methods that perform these tasks, there is a need for a benchmark which objectively compares the quality of tools and algorithms to maximally extract biological knowledge from the data. 
+                    The volume and diversity of transcriptomics datasets is rapidly growing. At the same time, each year hundreds of new tools are published to perform various steps in transcriptomics data analysis. For example, algorithms have been developed to identify differentially expressed genes, perform gene set enrichment analysis, and visualize transcriptomics data as heatmaps and scatter plots. In order to evaluate methods that perform these tasks, there is a need for developing objective benchmarks that can be used to compare the quality of tools and algorithms to maximally and accurately extract biological knowledge from these data. 
                 </p>
             </div>
             <div>
@@ -44,8 +43,27 @@
             </div>
         </div>
         <p class="about-text">
-            The goal of this resource is to provide the community with the dataset and tools needed for benchmarking different tools for gene expression analysis. Gene expression and transcription factor binding data for the drug dexamethasone and its known target, the Glucocorticoid Receptor (GR) (NR3C1), are provided along with code that demonstrates how to perform benchmarks for comparing gene expression analysis steps, such as alignment, data normalization, unsupervised cluster identification, differential expression analysis, and enrichment analysis. Users can compare new methods that they developed with state-of-the-art algorithms currently used by the community to perform such analyses. Differences between existing methods and new methods can be performed with Jupyter notebooks that can be customized for different needs. Overall, the dex benchmark provides a step forward toward improving the quality of bioinformatics workflow for the betterment of knowledge extraction from omics datasets.
+            The goal of this resource is to provide the community with datasets and template workflows needed for benchmarking different tools for gene expression analysis. 
+            Gene expression and transcription factor binding data for the drug dexamethasone and its known target, the Glucocorticoid Receptor (GR) (NR3C1), are provided on the <a href="../index.html">landing page</a> along with code that demonstrates how to perform benchmarks for comparing gene expression analysis steps, such as alignment, data normalization, unsupervised cluster identification, differential expression analysis, and enrichment analysis. 
+            The sources for the curated datasets include <a href="https://maayanlab.cloud/sigcom-lincs/#/" target="_blank">SigCom LINCS</a><sup>1</sup>, 
+            <a href="https://www.encodeproject.org/" target="_blank">ENCODE</a><sup>2</sup>, and the 
+            Gene Expression Omnibus (<a href="https://www.ncbi.nlm.nih.gov/geo/" target="_blank">GEO</a>) with processed data from 
+            <a href="https://maayanlab.cloud/CREEDS/" target="_blank">CREEDS</a><sup>3</sup>, 
+            <a href="https://maayanlab.cloud/gen3va/" target="_blank">GEN3VA</a><sup>4</sup>, and
+            <a href="https://maayanlab.cloud/chea3/" target="_blank">ChEA</a><sup>5</sup>.
+            Some of the provided data is used for the template workflows that compare state-of-the-art algorithms currently used by the community to perform transcriptomics analyses. 
+            Users can also benchmark additional methods by customizing the Jupyter Notebooks for their own needs. Overall, the Dexamethasone Benchmarking Resource provides a step forward toward improving the quality of bioinformatics workflow for the betterment of knowledge extraction from omics datasets.
         </p>
+        <div>
+            <h4>References</h4>
+            <p>[1] Evangelista JE, Clarke DJB, Xie Z, Lachmann A, Jeon M, Chen K, Jagodnik KM, Jenkins SL, Kuleshov MV, Wojciechowicz ML, Schürer SC, Medvedovic M, Ma’ayan A. SigCom LINCS: data and metadata search engine for a million gene expression signatures. Nucleic Acids Research, 2022; gkac328, https://doi.org/10.1093/nar/gkac328</p>
+            <p>[2] ENCODE Project Consortium. An integrated encyclopedia of DNA elements in the human genome. Nature. 2012 Sep 6;489(7414):57-74. doi: 10.1038/nature11247. PMID: 22955616; PMCID: PMC3439153.</p>
+            <p>Luo Y, Hitz BC, Gabdank I, Hilton JA, Kagda MS, Lam B, Myers Z, Sud P, Jou J, Lin K, Baymuradov UK, Graham K, Litton C, Miyasato SR, Strattan JS, Jolanki O, Lee JW, Tanaka FY, Adenekan P, O'Neill E, Cherry JM. New developments on the Encyclopedia of DNA Elements (ENCODE) data portal. Nucleic Acids Res. 2020 Jan 8;48(D1):D882-D889. doi: 10.1093/nar/gkz1062. PMID: 31713622; PMCID: PMC7061942.</p>
+            <p>[3] Keenan AB, Torre D, Lachmann A, Leong AK, Wojciechowicz M, Utti V, Jagodnik K, Kropiwnicki E, Wang Z, Ma'ayan A (2019) ChEA3: transcription factor enrichment analysis by orthogonal omics integration. Nucleic Acids Research.
+                doi: 10.1093/nar/gkz446</p>
+            <p>[4] Wang, Z., Monteiro, C. D., Jagodnik, K. M., Fernandez, N. F., Gundersen, G. W., ... & Ma'ayan, A. (2016) Extraction and Analysis of Signatures from the Gene Expression Omnibus by the Crowd. Nature Communications doi: 10.1038/ncomms12846</p>
+            <p>[5] Gundersen GW, Jagodnik KM, Woodland H, Fernandez NF, Sani K, Dohlman AB, Ung PM, Monteiro CD, Schlessinger A, Ma'ayan A. GEN3VA: aggregation and analysis of gene expression signatures from related studies. BMC Bioinformatics. 2016 Nov 15;17(1):461. doi: 10.1186/s12859-016-1321-1. PMID: 27846806; PMCID: PMC5111283.</p>
+        </div>
     </main>
     <footer class="footer">
         <div class="container">
@@ -63,20 +81,12 @@
                 <div class="col-md-2 col-sm">
                     <div class="row my-2">
                         <a class="badge badge-secondary px-2" href="https://github.com/MaayanLab/dex-benchmark" target="_blank">
-                            <span class="badge badge-light">
-                                <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-                                     style="width: 1rem;">
-                    </span>
                             View source code
                         </a>
                     </div>
                     <div class="row my-2">
                         <a class="badge badge-secondary px-2"
                            href="https://github.com/MaayanLab/dex-benchmark/issues/new" target="_blank">
-                            <span class="badge badge-light">
-                            <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-                                 style="width: 1rem;">
-                                </span>
                             Submit an issue
                         </a>
                     </div>
@@ -84,4 +94,5 @@
             </div>
         </div>
     </footer>
+    </body>
 </html>
