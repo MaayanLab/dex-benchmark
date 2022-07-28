@@ -1,0 +1,13 @@
+Sample_title	Treatment
+Con_24h_1	control 24h
+Con_24h_2	control 24h
+Con_24h_3	control 24h
+Con_6h_1	control 6h
+Con_6h_2	control 6h
+Con_6h_3	control 6h
+Dex_24h_1	dex 24h
+Dex_24h_2	dex 24h
+Dex_24h_3	dex 24h
+Dex_6h_1	dex 6h
+Dex_6h_2	dex 6h
+Dex_6h_3	dex 6h
