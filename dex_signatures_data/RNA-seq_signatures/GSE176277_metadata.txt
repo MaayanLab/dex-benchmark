@@ -1,0 +1,13 @@
+Sample_title	Treatment
+ROGKO_DEX-1	dex mut
+ROGKO_DEX-2	dex mut
+ROGKO_DEX-3	dex mut
+ROGKO_PBS-1	control mut
+ROGKO_PBS-2	control mut
+ROGKO_PBS-3	control mut
+WT_DEX-1	dex wt
+WT_DEX-2	dex wt
+WT_DEX-3	dex wt
+WT_PBS-1	control wt
+WT_PBS-2	control wt
+WT_PBS-3	control wt

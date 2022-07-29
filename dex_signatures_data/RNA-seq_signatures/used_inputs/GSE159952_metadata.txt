@@ -1,0 +1,9 @@
+Sample_title	Treatment
+Control_dexamethasone_1	control
+Control_dexamethasone_2	control
+Control_dexamethasone_3	control
+Control_dexamethasone_4	control
+dexamethasone_1	dex
+dexamethasone_2	dex
+dexamethasone_3	dex
+dexamethasone_4	dex
