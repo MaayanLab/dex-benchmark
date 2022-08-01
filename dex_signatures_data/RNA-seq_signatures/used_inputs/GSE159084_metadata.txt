@@ -1,0 +1,9 @@
+Sample_title	Treatment
+CON1_FPKM	control
+CON2_FPKM	control
+CON3_FPKM	control
+CON4_FPKM	control
+DEX1_FPKM	dex
+DEX2_FPKM	dex
+DEX3_FPKM	dex
+DEX4_FPKM	dex

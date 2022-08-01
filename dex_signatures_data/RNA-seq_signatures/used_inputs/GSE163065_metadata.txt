@@ -1,0 +1,7 @@
+Sample_title	Treatment
+NA-SD-21	dex
+NA-SD-25	dex
+NA-SD-29	dex
+NA-SD-19	control
+NA-SD-23	control
+NA-SD-27	control

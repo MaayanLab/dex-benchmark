@@ -1,0 +1,3 @@
+Sample_geo_accession	Treatment
+GSM5841784	control
+GSM5841787	dex

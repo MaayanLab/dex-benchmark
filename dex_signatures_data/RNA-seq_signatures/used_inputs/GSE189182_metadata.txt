@@ -1,0 +1,5 @@
+Sample_title	Treatment
+F_S_1M	control
+F_S_2M	control
+F_D_1M	dex
+F_D_2M	dex

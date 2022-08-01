@@ -1,0 +1,7 @@
+Sample_title	Treatment
+AF25	control
+AF26	control
+AF29	control
+AF25DEX	dex
+AF26DEX	dex
+AF29DEX	dex

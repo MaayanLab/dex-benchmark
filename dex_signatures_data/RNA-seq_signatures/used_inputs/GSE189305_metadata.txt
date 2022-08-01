@@ -1,0 +1,10 @@
+Sample_title	Treatment
+YC1	control
+YC2	control
+YC3	control
+YD4	dex
+YD5	dex
+YD6	dex
+YD7	dex
+YD8	dex
+YD9	dex
