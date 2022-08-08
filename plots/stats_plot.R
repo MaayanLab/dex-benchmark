@@ -4,7 +4,7 @@ library(readxl)
 library(ggplot2)
 library(tidyverse)
 
-df <- read_excel("~/Documents/Harvard/Summer 2022/Mount Sinai/Graphics/Stats.xlsx")
+df <- read_excel("Stats.xlsx")
 
 by_type <- df %>% group_by(type) %>% summarize(entries = sum(entries))
 

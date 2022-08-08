@@ -4,7 +4,6 @@ library(readxl)
 library(ggplot2)
 library(tidyverse)
 
-setwd("~/Documents/Harvard/Summer 2022/Mount Sinai/Graphics")
 tools <- read_excel("Tools per year.xlsx")
 
 ggplot(tools, aes(year, tools)) +
