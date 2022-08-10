@@ -1,0 +1,13 @@
+Sample_geo_accession	Sample_characteristics_ch1
+GSM5632354	standard cultivation medium
+GSM5632355	standard cultivation medium
+GSM5632356	standard cultivation medium
+GSM5632357	standard cultivation medium + dexamethason
+GSM5632358	standard cultivation medium + dexamethason
+GSM5632359	standard cultivation medium + dexamethason
+GSM5632360	standard cultivation medium + lithium
+GSM5632361	standard cultivation medium + lithium
+GSM5632362	standard cultivation medium + lithium
+GSM5632363	standard cultivation medium + dexamethason and lithium
+GSM5632364	standard cultivation medium + dexamethason and lithium
+GSM5632365	standard cultivation medium + dexamethason and lithium
