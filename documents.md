@@ -19,8 +19,7 @@ https://www.canva.com/design/DAFE0EmkI4g/MmyYMGem76tKQ24clxOihw/edit?utm_content
 https://www.canva.com/design/DAFEz2HagUY/xsayN_Yf5JLrUFWm8FqPdg/edit?utm_content=DAFEz2HagUY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 **Presentation Recordings**    
-Final version:    
-First take: https://drive.google.com/file/d/1Wd-b1cXI7OZBmkPt9StRuQF_0ruMBxmW/view?usp=sharing
+https://drive.google.com/drive/folders/1hFQOe9MxDJMJD80yB9lT-uqfTzHVJbck?usp=sharing
 
 **Presentation Materials**    
 Abstract: https://docs.google.com/document/d/1pgUvmn1kmjothHy_yVNrXp_RML6c5PZa/edit?usp=sharing&ouid=105927107865064896041&rtpof=true&sd=true    
