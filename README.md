@@ -3,9 +3,9 @@
 The Dexamethasone Benchmarking Resource is a community resource for benchmarking gene expression analysis tools. It provides datasets and code to evaluate the quality of methods for processing transcriptomics data. The resource can be accessed at https://maayanlab.github.io/dex-benchmark/
 
 ##### Contact
-Clara Chen
-clara_chen@college.harvard.edu
-alternate email: cchen2125@gmail.com
+Clara Chen  
+clara_chen@college.harvard.edu    
+alternate email: cchen2125@gmail.com   
 
 ## File Descriptions
 
