@@ -2,6 +2,11 @@
 
 The Dexamethasone Benchmarking Resource is a community resource for benchmarking gene expression analysis tools. It provides datasets and code to evaluate the quality of methods for processing transcriptomics data. The resource can be accessed at https://maayanlab.github.io/dex-benchmark/
 
+##### Contact
+Clara Chen
+clara_chen@college.harvard.edu
+alternate email: cchen2125@gmail.com
+
 ## File Descriptions
 
 ##### Benchmarking_Normalization_Methods
@@ -20,6 +25,7 @@ This folder contains data from CREEDS and GEN3VA as well as code and files for c
 This folder contains L1000 data for dexamethasone, NR3C1 KD, and NR3C1 OE. It also has the code for retrieving these files.
 
 ##### NR3C1_ranks
+This folder contains all the files and data from my first task in this project.
 
 ##### plots
 The code and data for creating the stats page plots and the tools plot for the presentation are in this folder.
