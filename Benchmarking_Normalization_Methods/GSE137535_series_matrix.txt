@@ -1,4 +1,4 @@
-Sample_geo_accession	Sample_characteristics_ch1
+Sample_geo_accession	Class
 GSM4081445	treatment: DEX
 GSM4081446	treatment: DEX
 GSM4081447	treatment: DEX
