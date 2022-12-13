@@ -1,0 +1,5 @@
+tissue	disease	cell_line	pert_name	pert_time	pert_type	data_level	creation_time	persistent_id	pert_dose
+kidney		HEK293T	NR1I2	48 h	Overexpression	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/oe/L1000_LINCS_DCIC_HSF012_HEK293T_48H_I21_NR1I2_200ng.tsv.gz	
+kidney		HEK293T	NR1I2	48 h	Overexpression	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/oe/L1000_LINCS_DCIC_HSF012_HEK293T_48H_I22_NR1I2_200ng.tsv.gz	
+kidney		HEK293T	NR1I2	48 h	Overexpression	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/oe/L1000_LINCS_DCIC_HSF012_HEK293T_48H_J21_NR1I2_200ng.tsv.gz	
+kidney		HEK293T	NR1I2	48 h	Overexpression	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/oe/L1000_LINCS_DCIC_HSF012_HEK293T_48H_J22_NR1I2_200ng.tsv.gz	

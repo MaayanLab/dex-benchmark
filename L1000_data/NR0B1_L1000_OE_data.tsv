@@ -1,0 +1,13 @@
+tissue	disease	cell_line	pert_name	pert_time	pert_type	data_level	creation_time	persistent_id	pert_dose
+kidney		HEK293T	NR0B1	48 h	Overexpression	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/oe/L1000_LINCS_DCIC_HSF011_HEK293T_48H_G07_NR0B1_200ng.tsv.gz	
+kidney		HEK293T	NR0B1	48 h	Overexpression	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/oe/L1000_LINCS_DCIC_HSF011_HEK293T_48H_G08_NR0B1_200ng.tsv.gz	
+kidney		HEK293T	NR0B1	48 h	Overexpression	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/oe/L1000_LINCS_DCIC_HSF011_HEK293T_48H_H07_NR0B1_200ng.tsv.gz	
+kidney		HEK293T	NR0B1	48 h	Overexpression	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/oe/L1000_LINCS_DCIC_HSF011_HEK293T_48H_H08_NR0B1_200ng.tsv.gz	
+skin of body	melanoma	A375	NR0B1	96 h	Overexpression	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/oe/L1000_LINCS_DCIC_OEB003_A375_96H_G21_NR0B1.tsv.gz	
+kidney		HA1E	NR0B1	96 h	Overexpression	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/oe/L1000_LINCS_DCIC_OEB003_HA1E_96H_G21_NR0B1.tsv.gz	
+lung	lung cancer	HCC515	NR0B1	96 h	Overexpression	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/oe/L1000_LINCS_DCIC_OEB003_HCC515_96H_G21_NR0B1.tsv.gz	
+liver	carcinoma	HEPG2	NR0B1	96 h	Overexpression	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/oe/L1000_LINCS_DCIC_OEB003_HEPG2_96H_G21_NR0B1.tsv.gz	
+intestine	colon carcinoma	HT29	NR0B1	96 h	Overexpression	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/oe/L1000_LINCS_DCIC_OEB003_HT29_96H_G21_NR0B1.tsv.gz	
+breast	breast carcinoma	MCF7	NR0B1	96 h	Overexpression	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/oe/L1000_LINCS_DCIC_OEB003_MCF7_96H_G21_NR0B1.tsv.gz	
+prostate gland	prostate adenocarcinoma	PC3	NR0B1	96 h	Overexpression	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/oe/L1000_LINCS_DCIC_OEB003_PC3_96H_G21_NR0B1.tsv.gz	
+prostate gland	prostate adenocarcinoma	VCAP	NR0B1	96 h	Overexpression	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/oe/L1000_LINCS_DCIC_OEB003_VCAP_96H_G21_NR0B1.tsv.gz	

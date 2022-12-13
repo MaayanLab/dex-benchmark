@@ -1,0 +1,97 @@
+tissue	disease	cell_line	pert_name	pert_time	pert_type	data_level	creation_time	persistent_id	pert_dose
+skin of body	melanoma	A375	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_A375_96H_C11_NR3C1.tsv.gz	
+skin of body	melanoma	A375	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_A375_96H_E11_NR3C1.tsv.gz	
+skin of body	melanoma	A375	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_A375_96H_M07_NR3C1.tsv.gz	
+lung	lung cancer	A549	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_A549_96H_C11_NR3C1.tsv.gz	
+lung	lung cancer	A549	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_A549_96H_E11_NR3C1.tsv.gz	
+lung	lung cancer	A549	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_A549_96H_M07_NR3C1.tsv.gz	
+kidney		HA1E	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_HA1E_96H_C11_NR3C1.tsv.gz	
+kidney		HA1E	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_HA1E_96H_E11_NR3C1.tsv.gz	
+kidney		HA1E	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_HA1E_96H_M07_NR3C1.tsv.gz	
+liver	carcinoma	HEPG2	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_HEPG2_96H_C11_NR3C1.tsv.gz	
+liver	carcinoma	HEPG2	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_HEPG2_96H_E11_NR3C1.tsv.gz	
+liver	carcinoma	HEPG2	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_HEPG2_96H_M07_NR3C1.tsv.gz	
+intestine	colon carcinoma	HT29	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_HT29_96H_C11_NR3C1.tsv.gz	
+intestine	colon carcinoma	HT29	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_HT29_96H_E11_NR3C1.tsv.gz	
+intestine	colon carcinoma	HT29	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_HT29_96H_M07_NR3C1.tsv.gz	
+breast	breast carcinoma	MCF7	NR3C1	144 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_MCF7_144H_C11_NR3C1.tsv.gz	
+breast	breast carcinoma	MCF7	NR3C1	144 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_MCF7_144H_E11_NR3C1.tsv.gz	
+breast	breast carcinoma	MCF7	NR3C1	144 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_MCF7_144H_M07_NR3C1.tsv.gz	
+breast	breast carcinoma	MCF7	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_MCF7_96H_C11_NR3C1.tsv.gz	
+breast	breast carcinoma	MCF7	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_MCF7_96H_E11_NR3C1.tsv.gz	
+breast	breast carcinoma	MCF7	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_MCF7_96H_M07_NR3C1.tsv.gz	
+prostate gland	prostate adenocarcinoma	PC3	NR3C1	144 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_PC3_144H_C11_NR3C1.tsv.gz	
+prostate gland	prostate adenocarcinoma	PC3	NR3C1	144 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_PC3_144H_E11_NR3C1.tsv.gz	
+prostate gland	prostate adenocarcinoma	PC3	NR3C1	144 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_PC3_144H_M07_NR3C1.tsv.gz	
+prostate gland	prostate adenocarcinoma	PC3	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_PC3_96H_C11_NR3C1.tsv.gz	
+prostate gland	prostate adenocarcinoma	PC3	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_PC3_96H_E11_NR3C1.tsv.gz	
+prostate gland	prostate adenocarcinoma	PC3	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_PC3_96H_M07_NR3C1.tsv.gz	
+prostate gland	prostate adenocarcinoma	VCAP	NR3C1	120 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_VCAP_120H_C11_NR3C1.tsv.gz	
+prostate gland	prostate adenocarcinoma	VCAP	NR3C1	120 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_VCAP_120H_E11_NR3C1.tsv.gz	
+prostate gland	prostate adenocarcinoma	VCAP	NR3C1	120 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDA001_VCAP_120H_M07_NR3C1.tsv.gz	
+skin of body	melanoma	A375	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_A375_96H_B06_NR3C1.tsv.gz	
+skin of body	melanoma	A375	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_A375_96H_D06_NR3C1.tsv.gz	
+skin of body	melanoma	A375	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_A375_96H_H18_NR3C1.tsv.gz	
+lung	lung cancer	A549	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_A549_96H_B06_NR3C1.tsv.gz	
+lung	lung cancer	A549	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_A549_96H_D06_NR3C1.tsv.gz	
+lung	lung cancer	A549	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_A549_96H_H18_NR3C1.tsv.gz	
+adipose tissue		ASC	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_ASC_96H_B06_NR3C1.tsv.gz	
+adipose tissue		ASC	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_ASC_96H_D06_NR3C1.tsv.gz	
+adipose tissue		ASC	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_ASC_96H_H18_NR3C1.tsv.gz	
+kidney		HA1E	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_HA1E_96H_B06_NR3C1.tsv.gz	
+kidney		HA1E	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_HA1E_96H_D06_NR3C1.tsv.gz	
+kidney		HA1E	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_HA1E_96H_H18_NR3C1.tsv.gz	
+lung	lung cancer	HCC515	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_HCC515_96H_B06_NR3C1.tsv.gz	
+lung	lung cancer	HCC515	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_HCC515_96H_D06_NR3C1.tsv.gz	
+lung	lung cancer	HCC515	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_HCC515_96H_H18_NR3C1.tsv.gz	
+liver	carcinoma	HEPG2	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_HEPG2_96H_B06_NR3C1.tsv.gz	
+liver	carcinoma	HEPG2	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_HEPG2_96H_D06_NR3C1.tsv.gz	
+liver	carcinoma	HEPG2	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_HEPG2_96H_H18_NR3C1.tsv.gz	
+intestine	colon carcinoma	HT29	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_HT29_96H_B06_NR3C1.tsv.gz	
+intestine	colon carcinoma	HT29	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_HT29_96H_D06_NR3C1.tsv.gz	
+intestine	colon carcinoma	HT29	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_HT29_96H_H18_NR3C1.tsv.gz	
+breast	breast carcinoma	MCF7	NR3C1	144 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_MCF7_144H_B06_NR3C1.tsv.gz	
+breast	breast carcinoma	MCF7	NR3C1	144 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_MCF7_144H_D06_NR3C1.tsv.gz	
+breast	breast carcinoma	MCF7	NR3C1	144 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_MCF7_144H_H18_NR3C1.tsv.gz	
+breast	breast carcinoma	MCF7	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_MCF7_96H_B06_NR3C1.tsv.gz	
+breast	breast carcinoma	MCF7	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_MCF7_96H_D06_NR3C1.tsv.gz	
+breast	breast carcinoma	MCF7	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_MCF7_96H_H18_NR3C1.tsv.gz	
+connective tissue		NPC	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_NPC_96H_B06_NR3C1.tsv.gz	
+connective tissue		NPC	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_NPC_96H_D06_NR3C1.tsv.gz	
+connective tissue		NPC	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_NPC_96H_H18_NR3C1.tsv.gz	
+prostate gland	prostate adenocarcinoma	PC3	NR3C1	144 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_PC3_144H_B06_NR3C1.tsv.gz	
+prostate gland	prostate adenocarcinoma	PC3	NR3C1	144 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_PC3_144H_D06_NR3C1.tsv.gz	
+prostate gland	prostate adenocarcinoma	PC3	NR3C1	144 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_PC3_144H_H18_NR3C1.tsv.gz	
+prostate gland	prostate adenocarcinoma	PC3	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_PC3_96H_B06_NR3C1.tsv.gz	
+prostate gland	prostate adenocarcinoma	PC3	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_PC3_96H_D06_NR3C1.tsv.gz	
+prostate gland	prostate adenocarcinoma	PC3	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_PC3_96H_H18_NR3C1.tsv.gz	
+skeletal muscle organ		SKL	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_SKL_96H_B06_NR3C1.tsv.gz	
+skeletal muscle organ		SKL	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_SKL_96H_D06_NR3C1.tsv.gz	
+skeletal muscle organ		SKL	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_SKL_96H_H18_NR3C1.tsv.gz	
+prostate gland	prostate adenocarcinoma	VCAP	NR3C1	120 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_VCAP_120H_B06_NR3C1.tsv.gz	
+prostate gland	prostate adenocarcinoma	VCAP	NR3C1	120 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_VCAP_120H_D06_NR3C1.tsv.gz	
+prostate gland	prostate adenocarcinoma	VCAP	NR3C1	120 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDB004_VCAP_120H_H18_NR3C1.tsv.gz	
+skin of body	melanoma	A375	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDC007_A375_96H_C21_NR3C1.tsv.gz	
+skin of body	melanoma	A375	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDC007_A375_96H_E23_NR3C1.tsv.gz	
+skin of body	melanoma	A375	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDC007_A375_96H_K21_NR3C1.tsv.gz	
+lung	lung cancer	A549	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDC007_A549_96H_C21_NR3C1.tsv.gz	
+lung	lung cancer	A549	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDC007_A549_96H_E23_NR3C1.tsv.gz	
+lung	lung cancer	A549	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDC007_A549_96H_K21_NR3C1.tsv.gz	
+kidney		HA1E	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDC007_HA1E_96H_C21_NR3C1.tsv.gz	
+kidney		HA1E	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDC007_HA1E_96H_E23_NR3C1.tsv.gz	
+kidney		HA1E	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDC007_HA1E_96H_K21_NR3C1.tsv.gz	
+lung	lung cancer	HCC515	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDC007_HCC515_96H_C21_NR3C1.tsv.gz	
+lung	lung cancer	HCC515	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDC007_HCC515_96H_E23_NR3C1.tsv.gz	
+lung	lung cancer	HCC515	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDC007_HCC515_96H_K21_NR3C1.tsv.gz	
+liver	carcinoma	HEPG2	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDC007_HEPG2_96H_C21_NR3C1.tsv.gz	
+liver	carcinoma	HEPG2	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDC007_HEPG2_96H_E23_NR3C1.tsv.gz	
+liver	carcinoma	HEPG2	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDC007_HEPG2_96H_K21_NR3C1.tsv.gz	
+breast	breast carcinoma	MCF7	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDC007_MCF7_96H_C21_NR3C1.tsv.gz	
+breast	breast carcinoma	MCF7	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDC007_MCF7_96H_E23_NR3C1.tsv.gz	
+breast	breast carcinoma	MCF7	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDC007_MCF7_96H_K21_NR3C1.tsv.gz	
+prostate gland	prostate adenocarcinoma	PC3	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDC007_PC3_96H_C21_NR3C1.tsv.gz	
+prostate gland	prostate adenocarcinoma	PC3	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDC007_PC3_96H_E23_NR3C1.tsv.gz	
+prostate gland	prostate adenocarcinoma	PC3	NR3C1	96 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDC007_PC3_96H_K21_NR3C1.tsv.gz	
+prostate gland	prostate adenocarcinoma	VCAP	NR3C1	120 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDC007_VCAP_120H_C21_NR3C1.tsv.gz	
+prostate gland	prostate adenocarcinoma	VCAP	NR3C1	120 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDC007_VCAP_120H_E23_NR3C1.tsv.gz	
+prostate gland	prostate adenocarcinoma	VCAP	NR3C1	120 h	shRNA Knockdown	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/shRNA/L1000_LINCS_DCIC_KDC007_VCAP_120H_K21_NR3C1.tsv.gz	

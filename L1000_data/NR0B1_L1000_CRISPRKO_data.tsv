@@ -1,0 +1,19 @@
+tissue	disease	cell_line	pert_name	pert_time	pert_type	data_level	creation_time	persistent_id	pert_dose
+skin of body	melanoma	A375.311	NR0B1	96 h	CRISPR Knockout	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/xpr/L1000_LINCS_DCIC_XPR032_A375.311_96H_N14_NR0B1.tsv.gz	
+skin of body	melanoma	A375.311	NR0B1	96 h	CRISPR Knockout	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/xpr/L1000_LINCS_DCIC_XPR032_A375.311_96H_P20_NR0B1.tsv.gz	
+lung	lung cancer	A549.311	NR0B1	96 h	CRISPR Knockout	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/xpr/L1000_LINCS_DCIC_XPR032_A549.311_96H_N14_NR0B1.tsv.gz	
+lung	lung cancer	A549.311	NR0B1	96 h	CRISPR Knockout	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/xpr/L1000_LINCS_DCIC_XPR032_A549.311_96H_P20_NR0B1.tsv.gz	
+stomach	gastric adenocarcinoma	AGS.311	NR0B1	96 h	CRISPR Knockout	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/xpr/L1000_LINCS_DCIC_XPR032_AGS.311_96H_N14_NR0B1.tsv.gz	
+stomach	gastric adenocarcinoma	AGS.311	NR0B1	96 h	CRISPR Knockout	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/xpr/L1000_LINCS_DCIC_XPR032_AGS.311_96H_P20_NR0B1.tsv.gz	
+hypopharynx	carcinoma	BICR6.311	NR0B1	96 h	CRISPR Knockout	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/xpr/L1000_LINCS_DCIC_XPR032_BICR6.311_96H_N14_NR0B1.tsv.gz	
+hypopharynx	carcinoma	BICR6.311	NR0B1	96 h	CRISPR Knockout	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/xpr/L1000_LINCS_DCIC_XPR032_BICR6.311_96H_P20_NR0B1.tsv.gz	
+ovary	ovarian carcinoma	ES2.311	NR0B1	96 h	CRISPR Knockout	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/xpr/L1000_LINCS_DCIC_XPR032_ES2.311_96H_N14_NR0B1.tsv.gz	
+ovary	ovarian carcinoma	ES2.311	NR0B1	96 h	CRISPR Knockout	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/xpr/L1000_LINCS_DCIC_XPR032_ES2.311_96H_P20_NR0B1.tsv.gz	
+colon	colon carcinoma	HT29.311	NR0B1	96 h	CRISPR Knockout	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/xpr/L1000_LINCS_DCIC_XPR032_HT29.311_96H_N14_NR0B1.tsv.gz	
+colon	colon carcinoma	HT29.311	NR0B1	96 h	CRISPR Knockout	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/xpr/L1000_LINCS_DCIC_XPR032_HT29.311_96H_P20_NR0B1.tsv.gz	
+prostate gland	prostate adenocarcinoma	PC3.311B	NR0B1	96 h	CRISPR Knockout	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/xpr/L1000_LINCS_DCIC_XPR032_PC3.311B_96H_N14_NR0B1.tsv.gz	
+prostate gland	prostate adenocarcinoma	PC3.311B	NR0B1	96 h	CRISPR Knockout	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/xpr/L1000_LINCS_DCIC_XPR032_PC3.311B_96H_P20_NR0B1.tsv.gz	
+brain	malignant astrocytoma	U251MG.311	NR0B1	96 h	CRISPR Knockout	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/xpr/L1000_LINCS_DCIC_XPR032_U251MG.311_96H_N14_NR0B1.tsv.gz	
+brain	malignant astrocytoma	U251MG.311	NR0B1	96 h	CRISPR Knockout	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/xpr/L1000_LINCS_DCIC_XPR032_U251MG.311_96H_P20_NR0B1.tsv.gz	
+pancreas	pancreatic adenocarcinoma	YAPC.311	NR0B1	96 h	CRISPR Knockout	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/xpr/L1000_LINCS_DCIC_XPR032_YAPC.311_96H_N14_NR0B1.tsv.gz	
+pancreas	pancreatic adenocarcinoma	YAPC.311	NR0B1	96 h	CRISPR Knockout	3	2021-01-21	https://lincs-dcic.s3.amazonaws.com/LINCS-data-2020/L1000/xpr/L1000_LINCS_DCIC_XPR032_YAPC.311_96H_P20_NR0B1.tsv.gz	
