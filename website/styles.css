@@ -13,9 +13,16 @@ nav {
     margin-left: 7%;
 }
 
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
 footer {
     background-color: #034270;
     padding: 15px;
+    margin-top: auto;
 }
 
 a {
