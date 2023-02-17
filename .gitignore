@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 .DS_Store
+L1000_data/*_fulldata.tsv
+L1000_data/*_metadata.tsv
