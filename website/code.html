@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- http://getbootstrap.com/docs/5.1/ -->
+        <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" rel="stylesheet">
+        <script crossorigin="anonymous" src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"></script>
+
+        <!--Styling-->
+        <link href="styles.css" rel="stylesheet">
+        <link href="favicon.ico" rel="icon">
+
+        <title>Dexamethasone Benchmark</title>
+    </head>
+    <body>
+        <nav class="border navbar navbar-expand-md navbar-light">
+            <div class="container-fluid" id="nav-text">
+                <img alt="logo" src="logo.png" style="height: 3.5rem;">
+                <a class="navbar-brand" href="../index.html" style="color: #ffffff">Dexamethasone Benchmarking Resource</a>
+                <button aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#navbar" data-bs-toggle="collapse" type="button">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbar">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item"><a class="nav-link" href="about.html" style="color: #ffffff">About</a></li>
+                        <li class="nav-item"><a class="nav-link" href="code.html" style="color: #ffffff">Code</a></li>
+                        <li class="nav-item"><a class="nav-link" href="data.html" style="color: #ffffff">Data</a></li>
+                        <li class="nav-item"><a class="nav-link" href="stats.html" style="color: #ffffff">Stats</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <main class="py-4">
+            <h2>
+                Dexamethasone Benchmarking Code Notebooks 
+            </h2>
+            <div class="row">
+                <div>
+                    <p>
+                        All code used to benchmark data can be found on this page in the form of Jupyter Notebooks (.ipynb files) roughly following the pipeline steps shown in the figure to the right. 
+                    </p>
+                    <p>
+                        To run a given notebook, you can either clone this Github repository in its entirety, or download only the notebook and relevant files you need. For the L1000 notebooks, all data is hosted in an Amazon S3 bucket, and the notebook will automatically download the required data the first time the notebook is run. Each subsequent run will use the downloaded data. 
+                    </p>
+                    <p>
+                        Pre-computed example HTML files are also available for each notebook, and showcase both the code and the expected tabular and visual outputs. 
+                    </p>
+                </div>
+                <div>
+                    <img alt="gene expression analysis steps" src="steps.png" width="90%">  
+                </div>
+            </div>
+            <div class="row">
+                <div class="box">
+                    <h5>
+                        Normalization Methods
+                    </h5>
+                    <p>
+                        Each of the following notebooks benchmarks the same normalization methods (CPM, log transformation, quantile normalization, z-score normalization, log + quantile normalization, and log + quantile + z-score normalization). Differential gene expression analysis method is performed via the method specified in the notebook name. 
+                    </p>
+                    <p>
+                        The GEO study used in the example notebooks is <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137535">GSE137535</a>. Fully computed signatures from this study can be found <a href="rnaseq_sigs.html">here</a>.
+                    </p>
+                    <ul>
+                        <li>
+                            Benchmarking Normalization Methods for RNA-seq Data (CD Version) <a href="../Benchmarking_Normalization_Methods/benchmarking_normalization.ipynb">Notebook Download</a> and <a href="../Benchmarking_Normalization_Methods/benchmarking_normalization.html">Example HTML</a>
+                        </li>
+                        <li>
+                            Benchmarking Normalization Methods for RNA-seq Data (Limma Version) <a href="../Benchmarking_Normalization_Methods/benchmarking_normalization_v2.ipynb">Notebook Download</a> and <a href="../Benchmarking_Normalization_Methods/benchmarking_normalization_v2.html">Example HTML</a>
+                        </li>
+                        <li>
+                            Benchmarking Normalization Methods for RNA-seq Data (Fold Change Version) <a href="../Benchmarking_Normalization_Methods/benchmarking_normalization_v3.ipynb">Notebook Download</a> and <a href="../Benchmarking_Normalization_Methods/benchmarking_normalization_v3.html">Example HTML</a>
+                        </li>
+                    </ul>
+                    <h5>
+                        Differential Gene Expression Analysis Methods
+                    </h5>
+                    <p>
+                        <b>RNA-seq Data</b>
+                    </p>
+                    <ul>
+                        <li>
+                            Benchmarking Dexamethasone <a href="../Benchmarking_RNA-seq_DEG_Methods/benchmarking_RNAseq_DEGs.ipynb">Notebook Download</a> and <a href="../Benchmarking_RNA-seq_DEG_Methods/benchmarking_RNAseq_DEGs.html">Example HTML</a>
+                        </li>
+                    </ul>
+                    <p>
+                        <b>L1000 Data</b>
+                    </p>
+                    <p>
+                        Metadata for all relevant L1000 data profiles and signatures can be found on the <a href="data.html">Data</a> page. 
+                    </p>
+                    <ul>
+                        <li>
+                            Benchmarking DEG Methods for L1000 CRISPR KO Data
+                            <ul>
+                                <li>
+                                    NR0B1 <a href="../Benchmarking_L1000_Data/benchmarking_deg_NR0B1_L1000_CRISPR_KO_batch.ipynb">Notebook Download</a> and <a href="../Benchmarking_L1000_data/benchmarking_deg_NR0B1_L1000_CRISPR_KO_batch.html">Example HTML</a>
+                                </li>
+                                <li>
+                                    NR1I2 <a href="../Benchmarking_L1000_Data/benchmarking_deg_NR1I2_L1000_CRISPR_KO_batch.ipynb">Notebook Download</a> and <a href="../Benchmarking_L1000_data/benchmarking_deg_NR1I2_L1000_CRISPR_KO_batch.html">Example HTML</a>
+                                </li>
+                            </ul> 
+                        </li>
+                        <li>
+                            Benchmarking DEG Methods for L1000 Chemical Perturbation Data 
+                            <ul>
+                                <li>
+                                    Dexamethasone <a href="../Benchmarking_RNA-seq_DEG_Methods/benchmarking_RNAseq_DEGs.ipynb">Notebook Download</a> and <a href="../Benchmarking_RNA-seq_DEG_Methods/benchmarking_RNAseq_DEGs.html">Example HTML</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </main>
+        <footer class="footer">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-2 col-sm text-center">
+                        <a href="https://icahn.mssm.edu/research/bioinformatics" target="_blank">
+                            <img class="rounded" src="icahn_cb.png" style="height: 6rem;">
+                        </a>
+                    </div>
+                    <div class="col-md-2 col-sm text-center">
+                        <a href="https://labs.icahn.mssm.edu/maayanlab/" target="_blank">
+                            <img class="rounded" src="maayanlab_logo.png" style="height: 6rem;">
+                        </a>
+                    </div>
+                    <div class="col-md-2 col-sm">
+                        <div class="row my-2" style="padding-top:1rem">
+                            <a class="badge badge-secondary px-2" href="https://github.com/MaayanLab/dex-benchmark" target="_blank">
+                                View source code
+                            </a>
+                        </div>
+                        <div class="row my-2">
+                            <a class="badge badge-secondary px-2"
+                               href="https://github.com/MaayanLab/dex-benchmark/issues/new" target="_blank">
+                                Submit an issue
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </body>
+</html>
