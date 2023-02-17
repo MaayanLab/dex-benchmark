@@ -23,6 +23,8 @@
                 <div class="collapse navbar-collapse" id="navbar">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link" href="website/about.html" style="color: #ffffff">About</a></li>
+                        <li class="nav-item"><a class="nav-link" href="website/code.html" style="color: #ffffff">Code</a></li>
+                        <li class="nav-item"><a class="nav-link" href="website/data.html" style="color: #ffffff">Data</a></li>
                         <li class="nav-item"><a class="nav-link" href="website/stats.html" style="color: #ffffff">Stats</a></li>
                     </ul>
                 </div>
@@ -37,101 +39,9 @@
             </p>
             <img alt="graphical abstract" src="website/workflowdiagram.png" width="75%" class = "center">
             <div class="row">
-                <div class="box" id="data">
-                    <h5>
-                        Curated and Processed Datasets 
-                    </h5>
                     <p>
-                        Dexamethasone RNA-seq
+                        The Dexamethasone Benchmarking Resource provides datasets and template workflows needed for benchmarking different tools for gene expression analysis. These datasets include microarray, RNA-seq, L1000, and ChIP-seq data related to dexamethasone and known targets such as NR3C1. Template workflows can be downloaded along with raw data to benchmark a set of gene expression profiles. Example code and visualizations are also provided. 
                     </p>
-                    <ul>
-                        <li>
-                            <a href="https://docs.google.com/spreadsheets/d/1dXm3RC852vQdg7s3vaZwwFotxbi5AnYGa0mYMUmLtn8/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Compiled Spreadsheet of Studies</a> (Google Sheets)
-                        </li>
-                        <li>
-                            <a href="website/rnaseq_sigs.html">Computed Signatures</a> (Webpage)
-                        </li>
-                    </ul>
-                    <p>
-                        Dexamethasone Microarray
-                    </p>
-                    <ul>
-                        <li><a href="dex_signatures_data/CREEDS_data/filtered_drug_perturbations-DM.csv">Drug Matrix Data - CodeLink Arrays</a> (File Download)</li>
-                        <li><a href="dex_signatures_data/CREEDS_data/filtered_drug_perturbations-p1.0.csv">Dex and Related Drug Pertubations</a> from <a href="https://maayanlab.cloud/CREEDS/" target="_blank">CREEDS</a> (File Download)</li>
-                        <li><a href="website/GEN3VA.html">Dexamethasone Gene Signatures from GEN3VA</a> (Webpage)</li>
-                    </ul>
-                    <p>
-                        NR3C1 ChIP-Seq
-                    </p>
-                    <ul>
-                        <li>
-                            <a href="https://docs.google.com/spreadsheets/d/12EHecge-pXMBdBkbi9WUEiMVlXcAwKelacoUEB42Plk/edit?usp=sharing" target="_blank">Gene Sets from ChEA and ENCODE</a> (Google Sheets)
-                        </li>
-                        <li>
-                            <a href="https://docs.google.com/spreadsheets/d/1YnM1ov-5oCb_vtcBehKA7WNklAJ269duIJQ7JLD0tUE/edit?usp=sharing" target="_blank">Entries from GEO</a> (Google Sheets)
-                        </li>
-                    </ul>
-                    <p>
-                        L1000 Profiles
-                    </p>
-                    <ul>
-                        <li>
-                            <a href="L1000_data/Dexamethasone_L1000_ChemPert_data.tsv">Dexamethasone Perturbation Profiles</a> (File Download)
-                        </li>
-                        <li>
-                            <a href="L1000_data/NR3C1_L1000_OE_data.tsv">NR3C1 Overexpression Profiles</a> (File Download)
-                        </li>
-                        <li>
-                            <a href="L1000_data/NR3C1_L1000_shRNA_data.tsv">NR3C1 Knockdown Profiles</a> (File Download)
-                        </li>
-                        <li>
-                            <a href="L1000_data/NR0B1_L1000_OE_data.tsv">NR3C1 Overexpression Profiles</a> (File Download)
-                        </li>
-                        <li>
-                            <a href="L1000_data/NR0B1_L1000_shRNA_data.tsv">NR0B1 Knockdown Profiles</a> (File Download)
-                        </li>
-                        <li>
-                            <a href="L1000_data/NR0B1_L1000_CRISPRKO_data.tsv">NR0B1 CRISPR Knockout Profiles</a> (File Download)
-                        </li>
-                        <li>
-                            <a href="L1000_data/NR1I2_L1000_OE_data.tsv">NR1I2 Overexpression Profiles</a> (File Download)
-                        </li>
-                        <li>
-                            <a href="L1000_data/NR1I2_L1000_CRISPRKO_data.tsv">NR1I2 CRISPR Knockout Profiles</a> (File Download)
-                        </li>
-                    </ul>
-                    <p>
-                        L1000 Signatures
-                    </p>
-                    <ul>
-                        <li>
-                            <a href="L1000_data/dex_L1000.csv">Dexamethasone Perturbation Signatures</a> (File Download)
-                        </li>
-                        <li>
-                            <a href="L1000_data/nr3c1_kd.csv">NR3C1 Knockdown Signatures</a> (File Download)
-                        </li>
-                        <li>
-                            <a href="L1000_data/nr3c1_OE.csv">NR3C1 Overexpression Signatures</a> (File Download)
-                        </li>
-                    </ul>
-                </div>
-                <div class="box" id="code">
-                    <h5>
-                        Demo Notebooks
-                    </h5>
-                    <img alt="gene expression analysis steps" src="website/steps.png" width="100%">
-                    <ul id="notebooks">
-                        <li>
-                            <a href="Benchmarking_Normalization_Methods/benchmarking_normalization.html">Benchmarking Data Normalization Methods (CD Version)</a>
-                        </li>
-                        <li>
-                            <a href="Benchmarking_Normalization_Methods/benchmarking_normalization_v2.html">Benchmarking Data Normalization Methods (Limma Version)</a>
-                        </li>
-                        <li>
-                            <a href="Benchmarking_Normalization_Methods/benchmarking_normalization_v3.html">Benchmarking Data Normalization Methods (Fold Change Version)</a>
-                        </li>
-                    </ul>
-                </div>
             </div>
         </main>
         <footer class="footer">
