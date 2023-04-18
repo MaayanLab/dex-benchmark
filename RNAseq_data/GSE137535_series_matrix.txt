@@ -1,0 +1,7 @@
+Sample_geo_accession	Class
+GSM4081445	Dex
+GSM4081446	Dex
+GSM4081447	Dex
+GSM4081451	Control
+GSM4081452	Control
+GSM4081453	Control

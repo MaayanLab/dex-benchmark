@@ -1,7 +1,0 @@
-Sample_geo_accession	Class
-GSM4081445	treatment: DEX
-GSM4081446	treatment: DEX
-GSM4081447	treatment: DEX
-GSM4081451	treatment: No Drug
-GSM4081452	treatment: No Drug
-GSM4081453	treatment: No Drug
