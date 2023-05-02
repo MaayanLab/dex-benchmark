@@ -2,3 +2,5 @@
 .DS_Store
 L1000_data/*_fulldata.tsv
 L1000_data/*_metadata.tsv
+RNAseq_data/Normalized
+*/Enrichr_Results
