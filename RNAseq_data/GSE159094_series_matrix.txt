@@ -1,0 +1,9 @@
+Sample_geo_accession	Class	Pair
+GSM4819298	Control	A
+GSM4819299	Control	B
+GSM4819300	Control	C
+GSM4819301	Control	D
+GSM4819286	Dex	A
+GSM4819287	Dex	B
+GSM4819288	Dex	C
+GSM4819289	Dex	D
