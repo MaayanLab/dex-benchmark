@@ -9,13 +9,13 @@
         <link href="styles.css" rel="stylesheet">
         <link href="favicon.ico" rel="icon">
 
-        <title>Dexamethasone Benchmark</title>
+        <title>Dex-Benchmark: Figures</title>
     </head>
     <body>
         <nav class="border navbar navbar-expand-md navbar-light">
             <div class="container-fluid" id="nav-text">
                 <img alt="logo" src="logo.png" style="height: 3.5rem;">
-                <a class="navbar-brand" href="../index.html" style="color: #ffffff">Dexamethasone Benchmarking Resource</a>
+                <a class="navbar-brand" href="../index.html" style="color: #ffffff">Dexamethasone Benchmark Resource</a>
                 <button aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#navbar" data-bs-toggle="collapse" type="button">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -24,30 +24,30 @@
                         <li class="nav-item"><a class="nav-link" href="about.html" style="color: #ffffff">About</a></li>
                         <li class="nav-item"><a class="nav-link" href="code.html" style="color: #ffffff">Code</a></li>
                         <li class="nav-item"><a class="nav-link" href="data.html" style="color: #ffffff">Data</a></li>
-                        <li class="nav-item"><a class="nav-link" href="examples.html" style="color: #ffffff">Examples</a></li>
+                        <li class="nav-item"><a class="nav-link" href="figures.html" style="color: #ffffff">Figures</a></li>
                         <li class="nav-item"><a class="nav-link" href="stats.html" style="color: #ffffff">Stats</a></li>
                     </ul>
                 </div>
             </div>
         </nav>
         <main class="py-4">
+            <h1>
+                Example Benchmark Figures
+            </h1>
             <div class="box">
                 <h2>
                     Benchmarking Methods for Analysis of RNA-seq Data
                 </h2>
                 <p>
-                    The code notebooks provided on this resource allow users to apply multiple normalization, differential gene expression, and enrichment analysis methods to an RNA-seq dataset. Here, we provide example results and visualizations from the analysis of the study <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137535" target="_blank">GSE137535</a>. 
+                    The code notebooks provided on this resource allow users to apply multiple normalization, differential gene expression, and enrichment analysis methods to an RNA-seq dataset. Here, we provide example results and visualizations from the analysis of the study <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE159094" target="_blank">GSE159094</a>. 
                 </p>
                 <ul>
-                    <li>3 control samples (MDA-MB-231 cell line with no drug treatment)</li>
-                    <li>3 treatment samples (MDA-MB-231 cell line treated with 1 uM dexamethasone for 24 hours)</li>
+                    <li>4 control samples (human PBMCs with no drug treatment)</li>
+                    <li>4 treatment samples (human PBMCs treated with 10^-7M dexamethasone)</li>
                 </ul>
                 <h3>
                     Differential Gene Expression Methods for RNA-seq Data
                 </h3>
-                <p>
-                    The Brownian bridge plots below show the average rankings of genes from NR3C1, NR0B1, and NR1I2 target gene sets in dexamethasone perturbation gene expression signatures computed using each method. The x-axis represents the gene rank within the signature normalized to [0,1], while the y-axis provides the difference from the uniform cumulative distribution function (CDF), <i>D(r)-r</i>. For more information on Brownian bridge plot visualizations, please refer to our paper on the characteristic direction method (<a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-79" target="_blank">Clark et al. 2014</a>). 
-                </p>
                 <p>
                     We would expect the target genes of transcription factors bound by dexamethasone to show significant differential expression under dexamethasone perturbation. Because target genes may have increased or decreased expression, gene signatures are ranked by the following values for each method:
                 </p>
@@ -59,6 +59,23 @@
                     <li><b>Log fold change:</b> Absolute value of the log fold change</li>
                     <li><b>Random:</b> Randomly shuffled gene order</li>
                 </ul>
+                <p>
+                    The boxplots display the enrichment rankings of NR3C1-related terms from the Enrichr ChEA 2022 library for gene sets from each method (left) as well as gene sets split by both direction and method (right). The <b>limma-voom</b> (<a href="https://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-2-r29" target="_blank">Law et al. 2014</a>; <a href="https://academic.oup.com/nar/article/43/7/e47/2414268?login=false" target="_blank">Ritchie et al. 2015</a>) and <b>pyDESeq2</b>> (<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0550-8", target="_blank">Love et al. 2014</a>; <a href="https://www.biorxiv.org/content/10.1101/2022.12.14.520412v1" target="_blank">Muzellec et al. 2022</a>) methods are performing the best at retrieving known target genes of NR3C1. Additionally, since NR3C1 is primarily an activator, we can see a directional effect where up-regulated genes under dexamethasone perturbation are higher ranked than combined and down gene sets. 
+                </p>
+                <div class="row">
+                    <div>
+                        <img alt="Enrichment rankings of NR3C1 terms for gene sets derived from each method" src="plots/rnaseq_deg/rna_dge_nr3c1_methodboxplot.png" width="90%">
+                    </div>
+                    <div>
+                        <img alt="Enrichment rankings of NR3C1 terms for each directional gene set derived from each method" src="plots/rnaseq_deg/rna_dge_nr3c1_dirmethodboxplot.png" width="90%">
+                    </div>
+                </div>
+                <p>
+                    The Brownian bridge plots below show the average rankings of genes from NR3C1, NR0B1, and NR1I2 target gene sets in dexamethasone perturbation gene expression signatures computed using each method. The x-axis represents the gene rank within the signature normalized to [0,1], while the y-axis provides the difference from the uniform cumulative distribution function (CDF), <i>D(r)-r</i>. For more information on Brownian bridge plot visualizations, please refer to our paper on the characteristic direction method (<a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-79" target="_blank">Clark et al. 2014</a>). 
+                </p>
+                <p>
+                    Once again, limma-voom and pyDESeq2 appear to recover the most NR3C1 target genes in the leading edge. 
+                </p>
                 <div class="row">
                     <div>
                         <img alt="Brownian bridge plot showing average rank of NR3C1 terms for each method" src="plots/rnaseq_deg/rna_dge_nr3c1_bridgeplot.png" width="90%">  
@@ -67,28 +84,6 @@
                         <img alt="Leading edge of Brownian bridge plot showing average rank of NR3C1 terms for each method" src="plots/rnaseq_deg/rna_dge_nr3c1_bridgeplot_leadingedge.png" width="60%">  
                     </div>
                 </div>
-                <p>
-                    Above, <b>limma-voom</b> (<a href="https://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-2-r29" target="_blank">Law et al. 2014</a>; <a href="https://academic.oup.com/nar/article/43/7/e47/2414268?login=false" target="_blank">Ritchie et al. 2015</a>) and <b>pyDESeq2</b>> (<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0550-8", target="_blank">Love et al. 2014</a>; <a href="https://www.biorxiv.org/content/10.1101/2022.12.14.520412v1" target="_blank">Muzellec et al. 2022</a>) recover the most NR3C1 target genes, as shown by their peaks. Additionally, from the leading edge, we can see that these two methods also rank target genes much higher. 
-                </p>
-                <div class="row">
-                    <div>
-                        <img alt="Brownian bridge plot showing average rank of NR0B1 terms for each method" src="plots/rnaseq_deg/rna_dge_nr0b1_bridgeplot.png" width="90%">  
-                    </div>
-                    <div>
-                        <img alt="Leading edge of Brownian bridge plot showing average rank of NR0B1 terms for each method" src="plots/rnaseq_deg/rna_dge_nr0b1_bridgeplot_leadingedge.png" width="60%">  
-                    </div>
-                </div>
-                <div class="row">
-                    <div>
-                        <img alt="Brownian bridge plot showing average rank of NR1I2 terms for each method" src="plots/rnaseq_deg/rna_dge_nr1i2_bridgeplot.png" width="90%">  
-                    </div>
-                    <div>
-                        <img alt="Leading edge of Brownian bridge plot showing average rank of NR1I2 terms for each method" src="plots/rnaseq_deg/rna_dge_nr1i2_bridgeplot_leadingedge.png" width="60%">  
-                    </div>
-                </div>
-                <p>
-                    Although NR0B1 and NR1I2 have a weaker drug-target relationship with dexamethasone, a similar pattern emerges in capturing their respective target genes from dexamethasone perturbational signatures. The <b>limma-voom</b> and <b>pyDESeq2</b> signatures consistently display the largest supremum (greatest difference from the uniform CDF), and show a steep leading edge, indicating the recovery of many significantly perturbed genes. The characteristic direction method performs well in the cases of NR0B1 and NR3C1, but less so for NR1I2.
-                </p>
             </div>
             <div class="box">
                 <h2>
